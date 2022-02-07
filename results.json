@@ -1,0 +1,6897 @@
+{
+    "Ab": {
+        "lb": 1,
+        "ab": 1,
+        "b": 1,
+        "35": 2,
+        "ha": 2
+    },
+    "Ameraca": {
+        "mercy": 3,
+        "menace": 3,
+        "emerald": 3,
+        "embrace": 3,
+        "morass": 4
+    },
+    "Amercia": {
+        "mercy": 3,
+        "maria": 3,
+        "inertia": 3,
+        "merit": 3,
+        "mercer": 3
+    },
+    "Ameracan": {
+        "tertian": 4,
+        "mercy": 4,
+        "merchant": 4,
+        "beacon": 4,
+        "seaman": 4
+    },
+    "Apirl": {
+        "spiral": 2,
+        "pill": 2,
+        "girl": 2,
+        "whirl": 2,
+        "spill": 2
+    },
+    "Austrain": {
+        "quatrain": 2,
+        "sustain": 2,
+        "restrain": 2,
+        "strain": 2,
+        "abstain": 3
+    },
+    "badcock": {
+        "paddock": 2,
+        "haddock": 2,
+        "padlock": 2,
+        "barrack": 3,
+        "block": 3
+    },
+    "bechuarnia_land": {
+        "sectarian": 8,
+        "actuarial": 8,
+        "mechanical": 8,
+        "mechanically": 8,
+        "technician": 8
+    },
+    "botuania": {
+        "bonanza": 3,
+        "botanical": 3,
+        "rotunda": 3,
+        "botany": 3,
+        "organic": 4
+    },
+    "Cambrige": {
+        "bridge": 4,
+        "ramble": 4,
+        "timbre": 4,
+        "imbibe": 4,
+        "arrive": 4
+    },
+    "Canda": {
+        "sana": 2,
+        "landau": 2,
+        "land": 2,
+        "handy": 2,
+        "candy": 2
+    },
+    "Chactuquoe": {
+        "fracture": 5,
+        "antique": 5,
+        "actuate": 5,
+        "aptitude": 6,
+        "reactor": 6
+    },
+    "Chalktwa": {
+        "halter": 4,
+        "shallow": 4,
+        "halfway": 4,
+        "chalky": 4,
+        "chalk": 4
+    },
+    "Chaqua": {
+        "haul": 3,
+        "plaque": 3,
+        "opaque": 3,
+        "thou": 4,
+        "ha": 4
+    },
+    "Chata": {
+        "hat": 2,
+        "hate": 2,
+        "data": 2,
+        "chat": 2,
+        "ha": 3
+    },
+    "Chatacqua": {
+        "haircut": 5,
+        "character": 5,
+        "hatchway": 5,
+        "hatchet": 5,
+        "tactual": 5
+    },
+    "Chatacque": {
+        "haircut": 5,
+        "baroque": 5,
+        "grotesque": 5,
+        "physique": 5,
+        "character": 5
+    },
+    "Chatalkwa": {
+        "natal": 5,
+        "shallow": 5,
+        "halfway": 5,
+        "nostalgia": 5,
+        "fatal": 5
+    },
+    "Chataqua": {
+        "hateful": 4,
+        "haircut": 5,
+        "haul": 5,
+        "baroque": 5,
+        "natal": 5
+    },
+    "Chataque": {
+        "baroque": 4,
+        "physique": 4,
+        "ratable": 4,
+        "plaque": 4,
+        "hate": 4
+    },
+    "Chataukowa": {
+        "shutdown": 6,
+        "tallow": 6,
+        "shallow": 6,
+        "hatchway": 6,
+        "fatuous": 6
+    },
+    "Chataukwa": {
+        "hatchway": 5,
+        "partake": 6,
+        "haul": 6,
+        "shutdown": 6,
+        "staunch": 6
+    },
+    "Chatauwkwa": {
+        "hatchway": 6,
+        "mazurka": 6,
+        "hawker": 6,
+        "hawk": 6,
+        "partake": 7
+    },
+    "Chateau": {
+        "plateau": 2,
+        "hate": 3,
+        "hated": 3,
+        "hateful": 3,
+        "sheaf": 4
+    },
+    "Chatocqua": {
+        "haircut": 5,
+        "baroque": 5,
+        "hatchway": 5,
+        "hatchet": 5,
+        "torque": 5
+    },
+    "Chatogua": {
+        "shotgun": 4,
+        "dialogue": 4,
+        "analogue": 4,
+        "handgun": 4,
+        "hateful": 4
+    },
+    "Chatoukouv": {
+        "fatuous": 5,
+        "laborious": 6,
+        "tortuous": 6,
+        "humorous": 6,
+        "honour": 6
+    },
+    "Chattakqua": {
+        "partake": 6,
+        "unattached": 6,
+        "partaker": 6,
+        "attacking": 6,
+        "attack": 6
+    },
+    "Chatuaca": {
+        "attack": 4,
+        "attach": 4,
+        "pharmacy": 4,
+        "hatch": 4,
+        "statuary": 4
+    },
+    "Chatwakwa": {
+        "hatchway": 5,
+        "reawaken": 5,
+        "awaken": 5,
+        "awake": 5,
+        "hawker": 5
+    },
+    "Chauetouequa": {
+        "acetonemia": 6,
+        "chaulmoogra": 7,
+        "mausoleum": 7,
+        "chauffeur": 7,
+        "haunted": 7
+    },
+    "Chauta": {
+        "haul": 3,
+        "auto": 3,
+        "kraut": 3,
+        "hasty": 3,
+        "shut": 3
+    },
+    "Chautakye": {
+        "partake": 4,
+        "phantasy": 4,
+        "haulage": 4,
+        "partaker": 5,
+        "sausage": 5
+    },
+    "Chautaqua": {
+        "beautiful": 5,
+        "laudanum": 5,
+        "chauffeur": 5,
+        "phantasy": 5,
+        "fantasia": 5
+    },
+    "Chautauchua": {
+        "unattached": 6,
+        "attach": 6,
+        "hatchway": 6,
+        "hatchet": 6,
+        "hatched": 6
+    },
+    "Chautiqua": {
+        "beautiful": 4,
+        "antique": 4,
+        "cautious": 4,
+        "physique": 5,
+        "incautious": 5
+    },
+    "Chautogqwa": {
+        "chaulmoogra": 6,
+        "shutdown": 6,
+        "auto": 6,
+        "shallow": 6,
+        "phantom": 6
+    },
+    "Chautqua": {
+        "haircut": 5,
+        "haul": 5,
+        "baroque": 5,
+        "auto": 5,
+        "halter": 5
+    },
+    "Chawtakque": {
+        "partake": 5,
+        "awake": 5,
+        "antique": 5,
+        "showcase": 6,
+        "baroque": 6
+    },
+    "Chawtawque": {
+        "antique": 5,
+        "partake": 6,
+        "showcase": 6,
+        "baroque": 6,
+        "grotesque": 6
+    },
+    "Cheautauqua": {
+        "beautiful": 6,
+        "healthful": 6,
+        "thesaurus": 6,
+        "beauteous": 6,
+        "heartening": 7
+    },
+    "Chetdacowa": {
+        "shutdown": 5,
+        "headache": 5,
+        "setback": 6,
+        "metrazol": 6,
+        "fedora": 6
+    },
+    "Chetoquoi": {
+        "ghetto": 5,
+        "rhetoric": 5,
+        "devour": 6,
+        "thou": 6,
+        "rheum": 6
+    },
+    "Chicahwa": {
+        "highway": 4,
+        "hibachi": 5,
+        "highly": 5,
+        "richly": 5,
+        "chicken": 5
+    },
+    "Chictocua": {
+        "shortcut": 5,
+        "octopus": 5,
+        "history": 5,
+        "historian": 5,
+        "hectic": 5
+    },
+    "Chicugta": {
+        "thicket": 4,
+        "biscuit": 5,
+        "haircut": 5,
+        "thirst": 5,
+        "tribute": 5
+    },
+    "Chistupa": {
+        "vista": 4,
+        "disrupt": 4,
+        "history": 4,
+        "chin-up": 4,
+        "disturb": 4
+    },
+    "Chitacque": {
+        "critique": 4,
+        "hibachi": 5,
+        "grotesque": 5,
+        "physique": 5,
+        "criticize": 5
+    },
+    "Chitalka": {
+        "chalky": 4,
+        "vitally": 4,
+        "talks": 4,
+        "talky": 4,
+        "vital": 4
+    },
+    "Chitalkwa": {
+        "vitality": 5,
+        "halfway": 5,
+        "nostalgia": 5,
+        "chalky": 5,
+        "vitally": 5
+    },
+    "Chitaqua": {
+        "critique": 4,
+        "hibachi": 5,
+        "haul": 5,
+        "fitful": 5,
+        "physique": 5
+    },
+    "Chitauqua": {
+        "critique": 5,
+        "thesaurus": 5,
+        "titanium": 5,
+        "hibachi": 6,
+        "haul": 6
+    },
+    "Chitoqua": {
+        "critique": 4,
+        "thou": 5,
+        "baroque": 5,
+        "iota": 5,
+        "fitful": 5
+    },
+    "Chittiqua": {
+        "critique": 4,
+        "hitting": 4,
+        "thirtieth": 5,
+        "spitting": 5,
+        "physique": 5
+    },
+    "Chochatta": {
+        "chatty": 4,
+        "thoriated": 5,
+        "merchant": 5,
+        "enchant": 5,
+        "sonata": 5
+    },
+    "Chottago": {
+        "hostage": 3,
+        "cottage": 3,
+        "shortage": 3,
+        "ghetto": 4,
+        "homage": 4
+    },
+    "Chouativa": {
+        "evocative": 4,
+        "shouting": 4,
+        "spouting": 5,
+        "evocation": 5,
+        "equation": 5
+    },
+    "Chtacu": {
+        "attack": 3,
+        "thwack": 3,
+        "attach": 3,
+        "hack": 3,
+        "tact": 3
+    },
+    "Chuatackqua": {
+        "haircut": 7,
+        "unpack": 7,
+        "capacious": 7,
+        "attacking": 7,
+        "checkup": 7
+    },
+    "Chuatuaque": {
+        "baroque": 6,
+        "grotesque": 6,
+        "valuable": 6,
+        "theatre": 6,
+        "mature": 6
+    },
+    "Chuatuaton": {
+        "infatuation": 4,
+        "equation": 5,
+        "automaton": 5,
+        "saturation": 5,
+        "exultation": 5
+    },
+    "Chutaciqwa": {
+        "shutdown": 6,
+        "humanity": 6,
+        "humanize": 6,
+        "stairway": 6,
+        "hatchway": 6
+    },
+    "Chutouko": {
+        "humour": 4,
+        "putout": 4,
+        "thou": 5,
+        "shutdown": 5,
+        "tutor": 5
+    },
+    "Cuhtawa": {
+        "getaway": 4,
+        "mustard": 4,
+        "shawl": 4,
+        "junta": 4,
+        "suntan": 4
+    },
+    "Quatauqua": {
+        "fatuous": 5,
+        "rutabaga": 5,
+        "baroque": 6,
+        "staunch": 6,
+        "grotesque": 6
+    },
+    "Schtaka": {
+        "partake": 4,
+        "char": 4,
+        "shaky": 4,
+        "chick": 4,
+        "chalky": 4
+    },
+    "Shatacua": {
+        "haircut": 4,
+        "acacia": 4,
+        "hatch": 4,
+        "hateful": 4,
+        "hibachi": 5
+    },
+    "Shatakiwa": {
+        "taking": 5,
+        "hatchway": 5,
+        "khaki": 5,
+        "shaking": 5,
+        "malaria": 5
+    },
+    "Shataqua": {
+        "hateful": 4,
+        "haircut": 5,
+        "haul": 5,
+        "baroque": 5,
+        "natal": 5
+    },
+    "Shautalkwa": {
+        "partake": 6,
+        "haul": 6,
+        "shutdown": 6,
+        "causally": 6,
+        "natal": 6
+    },
+    "Shawtachwa": {
+        "hatchway": 4,
+        "unattached": 5,
+        "attach": 5,
+        "hatchet": 5,
+        "hatched": 5
+    },
+    "Shawtapwa": {
+        "hatchway": 5,
+        "phantasy": 5,
+        "fantasia": 5,
+        "partake": 6,
+        "showcase": 6
+    },
+    "Shawtowa": {
+        "shallow": 4,
+        "phantom": 4,
+        "showdown": 4,
+        "shadowy": 4,
+        "shadow": 4
+    },
+    "Sheto": {
+        "hero": 2,
+        "veto": 2,
+        "ghetto": 2,
+        "photo": 2,
+        "sheaf": 3
+    },
+    "Shitaka": {
+        "partake": 4,
+        "shaky": 4,
+        "hit": 4,
+        "hitter": 4,
+        "chick": 4
+    },
+    "Showtalkaw": {
+        "outlaw": 5,
+        "showcase": 6,
+        "hotly": 6,
+        "howling": 6,
+        "total": 6
+    },
+    "Showtalkwa": {
+        "nostalgia": 5,
+        "showcase": 6,
+        "hotly": 6,
+        "howling": 6,
+        "total": 6
+    },
+    "Showtucwa": {
+        "shortcut": 5,
+        "erotica": 5,
+        "showdown": 5,
+        "rotunda": 5,
+        "thou": 6
+    },
+    "catauqua": {
+        "catalogue": 4,
+        "fatuous": 4,
+        "cabana": 4,
+        "caucus": 4,
+        "catalyst": 4
+    },
+    "chacactur": {
+        "character": 2,
+        "charter": 4,
+        "chauffeur": 4,
+        "chapter": 4,
+        "capacitor": 4
+    },
+    "chatacuia": {
+        "character": 4,
+        "acacia": 4,
+        "catalytic": 5,
+        "haircut": 5,
+        "hibachi": 5
+    },
+    "chataqua": {
+        "cabana": 4,
+        "charisma": 4,
+        "chatty": 4,
+        "critique": 4,
+        "chatter": 4
+    },
+    "chataque": {
+        "critique": 3,
+        "baroque": 4,
+        "physique": 4,
+        "cottage": 4,
+        "character": 4
+    },
+    "chatauchuia": {
+        "catalytic": 6,
+        "hibachi": 6,
+        "catechize": 6,
+        "character": 6,
+        "catechism": 6
+    },
+    "chatauqua": {
+        "character": 5,
+        "catalogue": 5,
+        "chauffeur": 5,
+        "fatuous": 5,
+        "cabana": 5
+    },
+    "chautaucua": {
+        "chauffeur": 5,
+        "cautious": 5,
+        "caucus": 5,
+        "chaotic": 5,
+        "chaulmoogra": 6
+    },
+    "chautauqua": {
+        "chauffeur": 5,
+        "cautious": 5,
+        "chaulmoogra": 6,
+        "causally": 6,
+        "coastal": 6
+    },
+    "chetickway": {
+        "hatchway": 4,
+        "chemically": 4,
+        "chemical": 4,
+        "checkup": 5,
+        "getaway": 5
+    },
+    "chictique": {
+        "critique": 2,
+        "physique": 4,
+        "fictive": 4,
+        "continue": 4,
+        "mystique": 4
+    },
+    "chitacwa": {
+        "hibachi": 4,
+        "chick": 4,
+        "chaw": 4,
+        "critic": 4,
+        "china": 4
+    },
+    "chitiquea": {
+        "critique": 2,
+        "physique": 4,
+        "continue": 4,
+        "mystique": 4,
+        "continued": 4
+    },
+    "chituaquea": {
+        "critique": 4,
+        "situated": 5,
+        "clique": 5,
+        "initiate": 6,
+        "grotesque": 6
+    },
+    "chtoawa": {
+        "chaw": 3,
+        "chow": 3,
+        "choir": 4,
+        "char": 4,
+        "crow": 4
+    },
+    "sechectaquka": {
+        "spectacular": 6,
+        "secretarial": 6,
+        "secretary": 6,
+        "expectant": 7,
+        "societal": 7
+    },
+    "shatakwa": {
+        "shutdown": 4,
+        "shallow": 4,
+        "shaky": 4,
+        "shank": 4,
+        "stakes": 4
+    },
+    "shtalkwa": {
+        "stalked": 3,
+        "shallow": 4,
+        "stacked": 4,
+        "stairway": 4,
+        "shaky": 4
+    },
+    "sutalkway": {
+        "stairway": 3,
+        "getaway": 4,
+        "sulky": 4,
+        "halfway": 4,
+        "sulkily": 4
+    },
+    "Crist": {
+        "wrist": 1,
+        "grist": 1,
+        "list": 2,
+        "crisp": 2,
+        "drift": 2
+    },
+    "Christain": {
+        "abstain": 4,
+        "christening": 4,
+        "retain": 4,
+        "puritan": 4,
+        "disdain": 4
+    },
+    "Chrismas": {
+        "charisma": 3,
+        "hiss": 4,
+        "purism": 4,
+        "marksman": 4,
+        "chairman": 4
+    },
+    "Christ_mas": {
+        "charisma": 5,
+        "distal": 6,
+        "freshman": 6,
+        "waistcoat": 6,
+        "striptease": 6
+    },
+    "Christmis": {
+        "theistic": 4,
+        "crisis": 4,
+        "gristmill": 4,
+        "distil": 5,
+        "rustic": 5
+    },
+    "Cristmus": {
+        "riotous": 3,
+        "restful": 4,
+        "wrist": 4,
+        "mistrust": 4,
+        "bristled": 4
+    },
+    "cristmas": {
+        "crystal": 3,
+        "crisis": 3,
+        "distal": 4,
+        "freshman": 4,
+        "crisp": 4
+    },
+    "Cinderrella": {
+        "underbelly": 4,
+        "inversely": 5,
+        "interred": 5,
+        "internally": 5,
+        "wonderfully": 5
+    },
+    "des.": {
+        "des": 1,
+        "desk": 1,
+        "jest": 2,
+        "das": 2,
+        "dean": 2
+    },
+    "Decmber": {
+        "member": 2,
+        "limber": 3,
+        "timber": 3,
+        "slumber": 3,
+        "umber": 3
+    },
+    "Desember": {
+        "remember": 2,
+        "resemble": 3,
+        "member": 3,
+        "somber": 3,
+        "jeweler": 4
+    },
+    "Doc": {
+        "doc": 1,
+        "lock": 2,
+        "on": 2,
+        "no.": 2,
+        "ton": 2
+    },
+    "draculla's": {
+        "miraculous": 5,
+        "trackless": 5,
+        "draughts": 5,
+        "granular": 5,
+        "cutlass": 5
+    },
+    "Dunstan": {
+        "suntan": 2,
+        "gunman": 3,
+        "constant": 3,
+        "junta": 3,
+        "puritan": 3
+    },
+    "Ester": {
+        "steer": 2,
+        "inter": 2,
+        "star": 2,
+        "enter": 2,
+        "miter": 2
+    },
+    "ester": {
+        "enter": 1,
+        "pester": 1,
+        "nester": 1,
+        "steer": 2,
+        "inter": 2
+    },
+    "Estwood": {
+        "stoop": 3,
+        "wood": 3,
+        "sword": 3,
+        "softwood": 3,
+        "redwood": 3
+    },
+    "ingish": {
+        "incise": 2,
+        "finish": 2,
+        "anguish": 2,
+        "insist": 2,
+        "longish": 2
+    },
+    "inglish": {
+        "anguish": 2,
+        "mingling": 3,
+        "foolish": 3,
+        "incise": 3,
+        "linguist": 3
+    },
+    "Fab": {
+        "jab": 1,
+        "lab": 1,
+        "cab": 1,
+        "gab": 1,
+        "tab": 1
+    },
+    "Febuary": {
+        "weary": 3,
+        "penury": 3,
+        "nebular": 3,
+        "library": 3,
+        "bury": 3
+    },
+    "Feburary": {
+        "nebular": 3,
+        "library": 3,
+        "burr": 4,
+        "defray": 4,
+        "curry": 4
+    },
+    "feburay": {
+        "fedora": 3,
+        "defray": 3,
+        "foray": 3,
+        "neural": 3,
+        "betray": 3
+    },
+    "Franch": {
+        "ranch": 1,
+        "branch": 1,
+        "crunch": 2,
+        "trench": 2,
+        "stanch": 2
+    },
+    "feirne": {
+        "feline": 2,
+        "fine": 2,
+        "feigned": 2,
+        "feint": 2,
+        "fire": 2
+    },
+    "fench": {
+        "bench": 1,
+        "fetch": 1,
+        "fence": 1,
+        "beech": 2,
+        "trench": 2
+    },
+    "freach": {
+        "preach": 1,
+        "reach": 1,
+        "breach": 1,
+        "trench": 2,
+        "roach": 2
+    },
+    "Firday": {
+        "midday": 2,
+        "pray": 3,
+        "workday": 3,
+        "irony": 3,
+        "today": 3
+    },
+    "hallowen": {
+        "hallowed": 1,
+        "tallow": 3,
+        "shallow": 3,
+        "balloon": 3,
+        "allow": 3
+    },
+    "Hitlar": {
+        "pillar": 2,
+        "hilar": 2,
+        "titular": 2,
+        "cellar": 3,
+        "dollar": 3
+    },
+    "a": {
+        "a": 0,
+        "ha": 1,
+        "f": 1,
+        "pa": 1,
+        "n": 1
+    },
+    "and": {
+        "ant": 1,
+        "land": 1,
+        "aid": 1,
+        "any": 1,
+        "add": 1
+    },
+    "are": {
+        "are": 0,
+        "care": 1,
+        "hare": 1,
+        "arm": 1,
+        "awe": 1
+    },
+    "has": {
+        "ha": 1,
+        "das": 1,
+        "hat": 1,
+        "ham": 1,
+        "hay": 1
+    },
+    "he": {
+        "he": 0,
+        "ha": 1,
+        "de": 1,
+        "e": 1,
+        "se": 1
+    },
+    "i": {
+        "i": 0,
+        "f": 1,
+        "in": 1,
+        "n": 1,
+        "8": 1
+    },
+    "if": {
+        "f": 1,
+        "in": 1,
+        "i": 1,
+        "rf": 1,
+        "it": 1
+    },
+    "is": {
+        "in": 1,
+        "i": 1,
+        "us": 1,
+        "as": 1,
+        "it": 1
+    },
+    "it": {
+        "it": 0,
+        "kit": 1,
+        "hit": 1,
+        "in": 1,
+        "i": 1
+    },
+    "iy": {
+        "by": 1,
+        "in": 1,
+        "i": 1,
+        "ivy": 1,
+        "it": 1
+    },
+    "ld": {
+        "lb": 1,
+        "lid": 1,
+        "la": 1,
+        "led": 1,
+        "old": 1
+    },
+    "we": {
+        "web": 1,
+        "de": 1,
+        "e": 1,
+        "awe": 1,
+        "se": 1
+    },
+    "I'de": {
+        "de": 2,
+        "ride": 2,
+        "rude": 2,
+        "code": 2,
+        "tide": 2
+    },
+    "I'ed": {
+        "red": 2,
+        "seed": 2,
+        "tied": 2,
+        "deed": 2,
+        "shed": 2
+    },
+    "I'ld": {
+        "gold": 2,
+        "bold": 2,
+        "fold": 2,
+        "sold": 2,
+        "meld": 2
+    },
+    "Ile": {
+        "ale": 1,
+        "le": 1,
+        "bee": 2,
+        "role": 2,
+        "elm": 2
+    },
+    "Ill": {
+        "all": 1,
+        "ill": 1,
+        "ell": 1,
+        "nil": 2,
+        "elm": 2
+    },
+    "I'me": {
+        "same": 2,
+        "fame": 2,
+        "dime": 2,
+        "me": 2,
+        "tame": 2
+    },
+    "I'n": {
+        "on": 2,
+        "fin": 2,
+        "ton": 2,
+        "en": 2,
+        "kin": 2
+    },
+    "im": {
+        "in": 1,
+        "i": 1,
+        "gm": 1,
+        "cm": 1,
+        "em": 1
+    },
+    "I'v": {
+        "bee": 3,
+        "par": 3,
+        "35": 3,
+        "ha": 3,
+        "29": 3
+    },
+    "Iev": {
+        "bee": 2,
+        "red": 2,
+        "web": 2,
+        "sea": 2,
+        "de": 2
+    },
+    "Indian's": {
+        "findings": 4,
+        "innings": 4,
+        "ancients": 4,
+        "tidings": 4,
+        "pandanus": 4
+    },
+    "Irland": {
+        "land": 2,
+        "errand": 2,
+        "grand": 2,
+        "upland": 2,
+        "island": 2
+    },
+    "Iresh": {
+        "fresh": 1,
+        "wrest": 2,
+        "rash": 2,
+        "crash": 2,
+        "brush": 2
+    },
+    "Januery": {
+        "cannery": 2,
+        "angry": 3,
+        "manure": 3,
+        "canter": 3,
+        "banker": 3
+    },
+    "Jaly": {
+        "bay": 2,
+        "tally": 2,
+        "hazy": 2,
+        "gala": 2,
+        "easy": 2
+    },
+    "Jun": {
+        "nun": 1,
+        "sun": 1,
+        "pun": 1,
+        "dun": 1,
+        "un": 1
+    },
+    "Lester": {
+        "pester": 1,
+        "nester": 1,
+        "enter": 2,
+        "luster": 2,
+        "better": 2
+    },
+    "Las_Angles": {
+        "shingles": 4,
+        "mangled": 5,
+        "single": 5,
+        "passenger": 5,
+        "tangle": 5
+    },
+    "Luks": {
+        "duke": 2,
+        "fuss": 2,
+        "bus": 2,
+        "us": 2,
+        "suds": 2
+    },
+    "Mayfeild": {
+        "safely": 4,
+        "layered": 4,
+        "daybed": 4,
+        "afield": 4,
+        "yield": 4
+    },
+    "Meditterranean": {
+        "letterman": 7,
+        "letterhead": 7,
+        "bitterness": 7,
+        "reiterate": 7,
+        "interfacial": 8
+    },
+    "mis": {
+        "mist": 1,
+        "miso": 1,
+        "mid": 1,
+        "miss": 1,
+        "mix": 1
+    },
+    "Munday": {
+        "sundry": 2,
+        "runway": 2,
+        "fungal": 3,
+        "unity": 3,
+        "today": 3
+    },
+    "Mis": {
+        "nil": 2,
+        "list": 2,
+        "das": 2,
+        "kit": 2,
+        "fin": 2
+    },
+    "Mrs": {
+        "dry": 2,
+        "crus": 2,
+        "das": 2,
+        "arts": 2,
+        "wry": 2
+    },
+    "Miss": {
+        "hiss": 1,
+        "kiss": 1,
+        "miss": 1,
+        "piss": 1,
+        "bliss": 2
+    },
+    "Mixss": {
+        "hiss": 2,
+        "kiss": 2,
+        "miss": 2,
+        "piss": 2,
+        "bliss": 3
+    },
+    "Mr's": {
+        "crus": 2,
+        "arts": 2,
+        "arms": 2,
+        "pray": 3,
+        "joss": 3
+    },
+    "Mrss": {
+        "joss": 2,
+        "crus": 2,
+        "hiss": 2,
+        "arts": 2,
+        "kiss": 2
+    },
+    "Octber": {
+        "steer": 3,
+        "cheer": 3,
+        "inter": 3,
+        "limber": 3,
+        "hitter": 3
+    },
+    "pikaness": {
+        "likeness": 2,
+        "paleness": 3,
+        "kindness": 3,
+        "sickness": 3,
+        "tidiness": 3
+    },
+    "perllips": {
+        "pelvis": 3,
+        "perhaps": 3,
+        "perilous": 3,
+        "period": 4,
+        "persist": 4
+    },
+    "Pyrannean": {
+        "tyrannize": 4,
+        "tyranny": 4,
+        "trainman": 4,
+        "tyrannical": 4,
+        "frankness": 5
+    },
+    "rowles": {
+        "role": 2,
+        "bowls": 2,
+        "roller": 2,
+        "rolled": 2,
+        "lawless": 3
+    },
+    "Samariton": {
+        "comparison": 4,
+        "damnation": 4,
+        "garrison": 4,
+        "attrition": 4,
+        "ambition": 4
+    },
+    "Saterday": {
+        "waterway": 2,
+        "material": 3,
+        "gateway": 3,
+        "maternal": 3,
+        "watery": 3
+    },
+    "Satuarday": {
+        "maturity": 4,
+        "actuarial": 4,
+        "tardy": 4,
+        "natural": 4,
+        "haggardly": 4
+    },
+    "Scotts": {
+        "costs": 2,
+        "spots": 3,
+        "knotty": 3,
+        "coat": 3,
+        "lotus": 3
+    },
+    "Sep": {
+        "bee": 2,
+        "red": 2,
+        "help": 2,
+        "web": 2,
+        "sea": 2
+    },
+    "Septenber": {
+        "extended": 4,
+        "defender": 4,
+        "engender": 4,
+        "messenger": 4,
+        "repeater": 4
+    },
+    "Septmber": {
+        "member": 3,
+        "remember": 3,
+        "leather": 4,
+        "reporter": 4,
+        "limber": 4
+    },
+    "shebre": {
+        "sabre": 2,
+        "there": 2,
+        "shore": 2,
+        "sherry": 2,
+        "shear": 2
+    },
+    "Spanich": {
+        "panic": 2,
+        "paunch": 3,
+        "ranch": 3,
+        "stanch": 3,
+        "punish": 3
+    },
+    "Sanday": {
+        "payday": 2,
+        "landau": 2,
+        "handy": 2,
+        "candy": 2,
+        "dandy": 2
+    },
+    "sweedish": {
+        "sweetish": 1,
+        "speedily": 3,
+        "fiendish": 3,
+        "reddish": 3,
+        "greenish": 3
+    },
+    "Thems": {
+        "chess": 2,
+        "theme": 2,
+        "ahem": 2,
+        "hem": 2,
+        "sheaf": 3
+    },
+    "Teusday": {
+        "weekday": 3,
+        "feudal": 3,
+        "heyday": 3,
+        "essay": 3,
+        "heady": 4
+    },
+    "Tusday": {
+        "gusty": 3,
+        "assay": 3,
+        "sundry": 3,
+        "today": 3,
+        "say": 3
+    },
+    "Tuseday": {
+        "fused": 3,
+        "someday": 3,
+        "sedan": 3,
+        "used": 3,
+        "gusty": 4
+    },
+    "vitiorian": {
+        "historian": 3,
+        "utopian": 4,
+        "vitriol": 4,
+        "librarian": 4,
+        "vitriolic": 4
+    },
+    "Wdendsdy": {
+        "teddy": 4,
+        "density": 4,
+        "identity": 4,
+        "ended": 4,
+        "deadly": 4
+    },
+    "Wedensday": {
+        "weekday": 4,
+        "density": 4,
+        "legendary": 4,
+        "everyday": 4,
+        "teensy": 4
+    },
+    "Wensday": {
+        "weekday": 3,
+        "sensual": 3,
+        "density": 3,
+        "heyday": 3,
+        "essay": 3
+    },
+    "Wesh": {
+        "mesh": 1,
+        "jest": 2,
+        "est": 2,
+        "west": 2,
+        "dish": 2
+    },
+    "exrays": {
+        "pray": 3,
+        "extant": 3,
+        "morass": 3,
+        "defray": 3,
+        "exodus": 3
+    },
+    "I": {
+        "f": 1,
+        "n": 1,
+        "8": 1,
+        "e": 1,
+        "4": 1
+    },
+    "ah": {
+        "at": 1,
+        "al": 1,
+        "ax": 1,
+        "as": 1,
+        "ash": 1
+    },
+    "an": {
+        "an": 0,
+        "on": 1,
+        "en": 1,
+        "wan": 1,
+        "in": 1
+    },
+    "as": {
+        "as": 0,
+        "das": 1,
+        "at": 1,
+        "ask": 1,
+        "al": 1
+    },
+    "the": {
+        "tee": 1,
+        "then": 1,
+        "tie": 1,
+        "he": 1,
+        "toe": 1
+    },
+    "aquiver": {
+        "quaver": 2,
+        "asunder": 3,
+        "arrive": 3,
+        "river": 3,
+        "abusive": 3
+    },
+    "abit": {
+        "bit": 1,
+        "habit": 1,
+        "audit": 2,
+        "aunt": 2,
+        "kit": 2
+    },
+    "afew": {
+        "anew": 1,
+        "few": 1,
+        "apex": 2,
+        "afar": 2,
+        "awe": 2
+    },
+    "alitl": {
+        "alike": 2,
+        "blitz": 2,
+        "lit": 2,
+        "alias": 2,
+        "slit": 2
+    },
+    "alittle": {
+        "little": 1,
+        "brittle": 2,
+        "spittle": 2,
+        "alike": 3,
+        "mettle": 3
+    },
+    "along": {
+        "along": 0,
+        "long": 1,
+        "alone": 1,
+        "aloof": 2,
+        "salon": 2
+    },
+    "alook": {
+        "aloof": 1,
+        "look": 1,
+        "alloy": 2,
+        "lock": 2,
+        "along": 2
+    },
+    "alot": {
+        "slot": 1,
+        "blot": 1,
+        "lot": 1,
+        "allot": 1,
+        "clot": 1
+    },
+    "alote": {
+        "alone": 1,
+        "anode": 2,
+        "aloof": 2,
+        "alike": 2,
+        "along": 2
+    },
+    "lot": {
+        "lot": 0,
+        "slot": 1,
+        "blot": 1,
+        "pot": 1,
+        "clot": 1
+    },
+    "amusum": {
+        "amuse": 2,
+        "amused": 2,
+        "museum": 2,
+        "alum": 3,
+        "muse": 3
+    },
+    "abbatoir": {
+        "aerator": 3,
+        "aviator": 3,
+        "equator": 4,
+        "abstain": 4,
+        "amateur": 4
+    },
+    "abhorence": {
+        "adherence": 2,
+        "abhorrent": 3,
+        "coherence": 3,
+        "absence": 3,
+        "absorbency": 3
+    },
+    "abbility": {
+        "ability": 1,
+        "agility": 2,
+        "nobility": 2,
+        "mobility": 2,
+        "debility": 2
+    },
+    "abilaty": {
+        "ability": 1,
+        "agility": 2,
+        "liability": 3,
+        "facility": 3,
+        "tabulate": 3
+    },
+    "abillity": {
+        "ability": 1,
+        "agility": 2,
+        "billing": 3,
+        "billet": 3,
+        "liability": 3
+    },
+    "abilty": {
+        "ability": 1,
+        "agility": 2,
+        "ably": 2,
+        "amity": 2,
+        "guilty": 2
+    },
+    "ablity": {
+        "ability": 1,
+        "agility": 2,
+        "blitz": 2,
+        "ably": 2,
+        "amity": 2
+    },
+    "aball": {
+        "ball": 1,
+        "aback": 2,
+        "hall": 2,
+        "fall": 2,
+        "wall": 2
+    },
+    "abel": {
+        "label": 1,
+        "abed": 1,
+        "bel": 1,
+        "babel": 1,
+        "bee": 2
+    },
+    "abule": {
+        "able": 1,
+        "abuse": 1,
+        "sable": 2,
+        "bulb": 2,
+        "ankle": 2
+    },
+    "alb": {
+        "lb": 1,
+        "al": 1,
+        "all": 1,
+        "ale": 1,
+        "ab": 1
+    },
+    "able_bodied": {
+        "full-bodied": 4,
+        "disembodied": 4,
+        "embodied": 4,
+        "long-bodied": 5,
+        "blended": 5
+    },
+    "a_belt": {
+        "belt": 2,
+        "bent": 3,
+        "affect": 3,
+        "upbeat": 3,
+        "beat": 3
+    },
+    "a_bot": {
+        "abbot": 1,
+        "allot": 2,
+        "robot": 2,
+        "about": 2,
+        "afoot": 2
+    },
+    "a_bout": {
+        "about": 1,
+        "bout": 2,
+        "abbot": 2,
+        "labour": 3,
+        "amount": 3
+    },
+    "a_but": {
+        "album": 2,
+        "debut": 2,
+        "about": 2,
+        "but": 2,
+        "rebut": 2
+    },
+    "a_pelt": {
+        "aspect": 2,
+        "affect": 3,
+        "repeat": 3,
+        "apex": 3,
+        "repent": 3
+    },
+    "aboat": {
+        "about": 1,
+        "boat": 1,
+        "beat": 2,
+        "afloat": 2,
+        "boa": 2
+    },
+    "aboit": {
+        "about": 1,
+        "audit": 2,
+        "boot": 2,
+        "admit": 2,
+        "bout": 2
+    },
+    "abont": {
+        "about": 1,
+        "bent": 2,
+        "aunt": 2,
+        "along": 2,
+        "aeon": 2
+    },
+    "aboo": {
+        "taboo": 1,
+        "boo": 1,
+        "aloof": 2,
+        "ago": 2,
+        "auto": 2
+    },
+    "abot": {
+        "about": 1,
+        "abbot": 1,
+        "aunt": 2,
+        "ago": 2,
+        "aeon": 2
+    },
+    "abote": {
+        "above": 1,
+        "abode": 1,
+        "anode": 2,
+        "bone": 2,
+        "both": 2
+    },
+    "abou": {
+        "about": 1,
+        "thou": 2,
+        "ago": 2,
+        "labour": 2,
+        "aeon": 2
+    },
+    "abought": {
+        "wrought": 2,
+        "sought": 2,
+        "about": 2,
+        "drought": 2,
+        "bough": 2
+    },
+    "abould": {
+        "abound": 1,
+        "bold": 2,
+        "absurd": 2,
+        "about": 2,
+        "mould": 2
+    },
+    "abound": {
+        "abound": 0,
+        "around": 1,
+        "bound": 1,
+        "unbound": 2,
+        "wound": 2
+    },
+    "abowt": {
+        "about": 1,
+        "boot": 2,
+        "bout": 2,
+        "bow": 2,
+        "above": 2
+    },
+    "abunt": {
+        "aunt": 1,
+        "bunt": 1,
+        "brunt": 2,
+        "bent": 2,
+        "gaunt": 2
+    },
+    "abuot": {
+        "abbot": 1,
+        "aunt": 2,
+        "blot": 2,
+        "boot": 2,
+        "allot": 2
+    },
+    "ad": {
+        "ad": 0,
+        "bad": 1,
+        "sad": 1,
+        "at": 1,
+        "fad": 1
+    },
+    "adeaut": {
+        "fadeout": 2,
+        "debut": 2,
+        "adapt": 2,
+        "adept": 2,
+        "dean": 3
+    },
+    "adot": {
+        "dot": 1,
+        "adopt": 1,
+        "audit": 2,
+        "aunt": 2,
+        "ago": 2
+    },
+    "adout": {
+        "about": 1,
+        "adopt": 1,
+        "amount": 2,
+        "tout": 2,
+        "stout": 2
+    },
+    "arand": {
+        "grand": 1,
+        "brand": 1,
+        "grad": 2,
+        "afraid": 2,
+        "frank": 2
+    },
+    "bout": {
+        "bout": 0,
+        "tout": 1,
+        "boot": 1,
+        "gout": 1,
+        "about": 1
+    },
+    "of": {
+        "on": 1,
+        "f": 1,
+        "o": 1,
+        "ox": 1,
+        "or": 1
+    },
+    "out": {
+        "out": 0,
+        "oust": 1,
+        "cut": 1,
+        "tout": 1,
+        "gout": 1
+    },
+    "to": {
+        "ton": 1,
+        "no": 1,
+        "o": 1,
+        "tow": 1,
+        "toy": 1
+    },
+    "urbote": {
+        "orate": 3,
+        "tribute": 3,
+        "remote": 3,
+        "role": 3,
+        "trot": 3
+    },
+    "a_barth": {
+        "earth": 3,
+        "unearth": 3,
+        "berth": 3,
+        "apart": 3,
+        "birth": 3
+    },
+    "a_beyied": {
+        "embedded": 4,
+        "arrayed": 4,
+        "barbecued": 4,
+        "labelled": 4,
+        "attested": 4
+    },
+    "a_bof": {
+        "aloof": 2,
+        "abbot": 2,
+        "alloy": 3,
+        "bebop": 3,
+        "ago": 3
+    },
+    "a_bother": {
+        "bother": 2,
+        "another": 2,
+        "brother": 3,
+        "other": 3,
+        "smoother": 3
+    },
+    "a_bueve": {
+        "abusive": 3,
+        "above": 3,
+        "achieve": 3,
+        "abuse": 3,
+        "bee": 4
+    },
+    "a_buth": {
+        "ambush": 2,
+        "truth": 3,
+        "auto": 3,
+        "album": 3,
+        "south": 3
+    },
+    "a_buve": {
+        "above": 2,
+        "abuse": 2,
+        "mauve": 3,
+        "arrive": 3,
+        "accuse": 3
+    },
+    "abaeth": {
+        "bath": 2,
+        "earth": 3,
+        "faith": 3,
+        "aback": 3,
+        "beech": 3
+    },
+    "abahe": {
+        "aback": 2,
+        "aware": 2,
+        "above": 2,
+        "able": 2,
+        "bake": 2
+    },
+    "aboer": {
+        "borer": 2,
+        "labour": 2,
+        "labor": 2,
+        "after": 2,
+        "saber": 2
+    },
+    "abofe": {
+        "above": 1,
+        "abode": 1,
+        "anode": 2,
+        "bone": 2,
+        "about": 2
+    },
+    "abost": {
+        "about": 1,
+        "boot": 2,
+        "cost": 2,
+        "post": 2,
+        "host": 2
+    },
+    "about": {
+        "about": 0,
+        "bout": 1,
+        "labour": 2,
+        "amount": 2,
+        "tout": 2
+    },
+    "abouth": {
+        "about": 1,
+        "south": 2,
+        "both": 2,
+        "bout": 2,
+        "youth": 2
+    },
+    "abouve": {
+        "above": 1,
+        "about": 2,
+        "abound": 2,
+        "arouse": 2,
+        "abode": 2
+    },
+    "abowe": {
+        "above": 1,
+        "abode": 1,
+        "anode": 2,
+        "bone": 2,
+        "awe": 2
+    },
+    "abuf": {
+        "bug": 2,
+        "alum": 2,
+        "album": 2,
+        "ably": 2,
+        "aku": 2
+    },
+    "abuov": {
+        "above": 2,
+        "abuse": 2,
+        "abbot": 2,
+        "aloof": 3,
+        "alloy": 3
+    },
+    "abuve": {
+        "above": 1,
+        "abuse": 1,
+        "mauve": 2,
+        "abusive": 2,
+        "amuse": 2
+    },
+    "abve": {
+        "above": 1,
+        "able": 1,
+        "bee": 2,
+        "mauve": 2,
+        "carve": 2
+    },
+    "adove": {
+        "dove": 1,
+        "above": 1,
+        "adore": 1,
+        "adobe": 1,
+        "anode": 2
+    },
+    "aduv": {
+        "alum": 2,
+        "dud": 2,
+        "aku": 2,
+        "adult": 2,
+        "due": 2
+    },
+    "alowe": {
+        "alone": 1,
+        "anode": 2,
+        "aloof": 2,
+        "alike": 2,
+        "along": 2
+    },
+    "aovere": {
+        "govern": 2,
+        "hover": 2,
+        "lover": 2,
+        "adverse": 2,
+        "overt": 2
+    },
+    "apuve": {
+        "mauve": 2,
+        "pave": 2,
+        "ape": 2,
+        "apple": 2,
+        "amuse": 2
+    },
+    "bealove": {
+        "beloved": 2,
+        "bellow": 3,
+        "zealot": 3,
+        "before": 3,
+        "become": 3
+    },
+    "beneath": {
+        "beneath": 0,
+        "breath": 2,
+        "bent": 3,
+        "repeat": 3,
+        "beat": 3
+    },
+    "buft": {
+        "bunt": 1,
+        "bust": 1,
+        "butt": 1,
+        "buff": 1,
+        "but": 1
+    },
+    "dong": {
+        "done": 1,
+        "dung": 1,
+        "don": 1,
+        "dog": 1,
+        "song": 1
+    },
+    "obove": {
+        "above": 1,
+        "ooze": 2,
+        "ozone": 2,
+        "bone": 2,
+        "love": 2
+    },
+    "ubove": {
+        "above": 1,
+        "bone": 2,
+        "love": 2,
+        "stove": 2,
+        "move": 2
+    },
+    "unbove": {
+        "uncover": 2,
+        "undone": 2,
+        "above": 2,
+        "unmoved": 2,
+        "unborn": 2
+    },
+    "uove": {
+        "love": 1,
+        "move": 1,
+        "dove": 1,
+        "rove": 1,
+        "cove": 1
+    },
+    "upbudh": {
+        "upbeat": 3,
+        "push": 3,
+        "ambush": 3,
+        "pouch": 3,
+        "bush": 3
+    },
+    "upbuve": {
+        "mauve": 3,
+        "upbeat": 3,
+        "prune": 3,
+        "pave": 3,
+        "upsurge": 3
+    },
+    "urborth": {
+        "purport": 3,
+        "unearth": 3,
+        "both": 3,
+        "broth": 3,
+        "berth": 3
+    },
+    "a_broad": {
+        "abroad": 1,
+        "broad": 2,
+        "brad": 3,
+        "road": 3,
+        "brood": 3
+    },
+    "abraod": {
+        "afraid": 2,
+        "brad": 2,
+        "brood": 2,
+        "abroad": 2,
+        "brand": 2
+    },
+    "abrod": {
+        "abroad": 1,
+        "acrid": 2,
+        "apron": 2,
+        "aired": 2,
+        "brad": 2
+    },
+    "absense": {
+        "absence": 1,
+        "absentee": 2,
+        "sense": 2,
+        "absent": 2,
+        "offense": 3
+    },
+    "absents": {
+        "absent": 1,
+        "assent": 2,
+        "absentee": 2,
+        "assets": 2,
+        "absence": 2
+    },
+    "apsent": {
+        "assent": 1,
+        "absent": 1,
+        "upset": 2,
+        "ascent": 2,
+        "agent": 2
+    },
+    "absolutley": {
+        "absolute": 2,
+        "absolutely": 2,
+        "absolution": 3,
+        "insoluble": 4,
+        "resolutely": 4
+    },
+    "absolutly": {
+        "absolutely": 1,
+        "absolute": 2,
+        "resolutely": 3,
+        "absently": 3,
+        "absolution": 3
+    },
+    "apselutely": {
+        "absolutely": 2,
+        "resolutely": 3,
+        "securely": 4,
+        "adequately": 4,
+        "politely": 4
+    },
+    "abo": {
+        "ago": 1,
+        "ab": 1,
+        "auto": 2,
+        "kayo": 2,
+        "aeon": 2
+    },
+    "absorbant": {
+        "absorbing": 2,
+        "absorb": 3,
+        "abhorrent": 3,
+        "absorber": 3,
+        "aberrant": 3
+    },
+    "absorbtion": {
+        "absorption": 1,
+        "abortion": 2,
+        "absolution": 2,
+        "apportion": 3,
+        "aberration": 3
+    },
+    "abse": {
+        "able": 1,
+        "abuse": 1,
+        "bee": 2,
+        "rise": 2,
+        "muse": 2
+    },
+    "Asurb": {
+        "surf": 2,
+        "sure": 2,
+        "sur": 2,
+        "sub": 2,
+        "curb": 2
+    },
+    "abeserbed": {
+        "absorbed": 2,
+        "observed": 3,
+        "absorber": 3,
+        "preserved": 3,
+        "reserved": 3
+    },
+    "abscered": {
+        "observed": 3,
+        "mastered": 3,
+        "ascend": 3,
+        "absurd": 3,
+        "angered": 3
+    },
+    "abserb": {
+        "absorb": 1,
+        "absurd": 2,
+        "assert": 2,
+        "adverb": 2,
+        "absent": 2
+    },
+    "abserbd": {
+        "absorb": 2,
+        "absurd": 2,
+        "absorbed": 2,
+        "observed": 3,
+        "absorber": 3
+    },
+    "abserbed": {
+        "absorbed": 1,
+        "observed": 2,
+        "absorber": 2,
+        "asserted": 2,
+        "barbed": 3
+    },
+    "abserd": {
+        "absurd": 1,
+        "absorb": 2,
+        "assert": 2,
+        "abed": 2,
+        "absent": 2
+    },
+    "abserded": {
+        "observed": 2,
+        "asserted": 2,
+        "absorbed": 2,
+        "absorber": 3,
+        "absurdly": 3
+    },
+    "absered": {
+        "observed": 2,
+        "absurd": 2,
+        "angered": 2,
+        "asserted": 2,
+        "assured": 2
+    },
+    "abserid": {
+        "absurd": 2,
+        "absorb": 3,
+        "acrid": 3,
+        "observed": 3,
+        "abstain": 3
+    },
+    "abserred": {
+        "observed": 2,
+        "asserted": 2,
+        "absorbed": 2,
+        "blurred": 3,
+        "absorber": 3
+    },
+    "abserve": {
+        "observe": 1,
+        "observed": 2,
+        "serve": 2,
+        "deserve": 2,
+        "absence": 2
+    },
+    "abserved": {
+        "observed": 1,
+        "reserved": 2,
+        "asserted": 2,
+        "observe": 2,
+        "deserved": 2
+    },
+    "abseved": {
+        "observed": 2,
+        "bleed": 3,
+        "sever": 3,
+        "seed": 3,
+        "abusive": 3
+    },
+    "absevered": {
+        "severed": 2,
+        "fevered": 3,
+        "revered": 3,
+        "severe": 3,
+        "several": 4
+    },
+    "absorb": {
+        "absorb": 0,
+        "absorber": 2,
+        "absurd": 2,
+        "absorbed": 2,
+        "born": 3
+    },
+    "absorbd": {
+        "absorb": 1,
+        "absorbed": 1,
+        "absorber": 2,
+        "absurd": 2,
+        "bored": 3
+    },
+    "absorbed": {
+        "absorbed": 0,
+        "absorber": 1,
+        "absorb": 2,
+        "sorbed": 2,
+        "assorted": 2
+    },
+    "absord": {
+        "absorb": 1,
+        "absurd": 1,
+        "accord": 2,
+        "abroad": 2,
+        "absorbed": 2
+    },
+    "absored": {
+        "absorbed": 1,
+        "absorb": 2,
+        "absorber": 2,
+        "bored": 2,
+        "armored": 2
+    },
+    "absred": {
+        "aired": 2,
+        "bored": 2,
+        "labored": 2,
+        "absurd": 2,
+        "abed": 2
+    },
+    "absurb": {
+        "absorb": 1,
+        "absurd": 1,
+        "assure": 2,
+        "burr": 3,
+        "labour": 3
+    },
+    "absurbe": {
+        "absorb": 2,
+        "absorber": 2,
+        "absurd": 2,
+        "assure": 2,
+        "absorbed": 2
+    },
+    "absurbed": {
+        "absorbed": 1,
+        "absorber": 2,
+        "absurd": 2,
+        "assured": 2,
+        "barbed": 3
+    },
+    "absurded": {
+        "absurdly": 2,
+        "absurd": 2,
+        "assured": 2,
+        "absorbed": 2,
+        "burned": 3
+    },
+    "absured": {
+        "absurd": 1,
+        "assured": 1,
+        "insured": 2,
+        "assure": 2,
+        "abused": 2
+    },
+    "absurred": {
+        "blurred": 2,
+        "absurd": 2,
+        "assured": 2,
+        "absorbed": 2,
+        "burned": 3
+    },
+    "aburd": {
+        "absurd": 1,
+        "burr": 2,
+        "curd": 2,
+        "award": 2,
+        "bird": 2
+    },
+    "aburve": {
+        "abusive": 2,
+        "above": 2,
+        "curve": 2,
+        "abuse": 2,
+        "purse": 3
+    },
+    "adsurbed": {
+        "assured": 2,
+        "absorbed": 2,
+        "absorber": 3,
+        "adorned": 3,
+        "absurd": 3
+    },
+    "apserved": {
+        "observed": 2,
+        "reserved": 2,
+        "asserted": 2,
+        "deserved": 2,
+        "tapered": 3
+    },
+    "apubed": {
+        "amused": 2,
+        "abed": 2,
+        "abused": 2,
+        "barbed": 3,
+        "apex": 3
+    },
+    "obsurd": {
+        "absurd": 1,
+        "obscure": 2,
+        "absorb": 3,
+        "burr": 3,
+        "observed": 3
+    },
+    "obsured": {
+        "observed": 2,
+        "absurd": 2,
+        "insured": 2,
+        "assured": 2,
+        "obscure": 2
+    },
+    "abundence": {
+        "abundance": 1,
+        "absence": 3,
+        "prudence": 3,
+        "audience": 3,
+        "abundant": 3
+    },
+    "abundent": {
+        "abundant": 1,
+        "asunder": 3,
+        "abandon": 3,
+        "pungent": 3,
+        "unbent": 3
+    },
+    "abouse": {
+        "arouse": 1,
+        "abuse": 1,
+        "accuse": 2,
+        "amuse": 2,
+        "about": 2
+    },
+    "accademic": {
+        "academic": 1,
+        "academy": 3,
+        "accede": 4,
+        "epidemic": 4,
+        "pandemic": 4
+    },
+    "acedemic": {
+        "academic": 1,
+        "epidemic": 3,
+        "pandemic": 3,
+        "anemic": 3,
+        "academy": 3
+    },
+    "academicly": {
+        "academic": 2,
+        "academically": 2,
+        "academy": 3,
+        "calmly": 5,
+        "anatomically": 5
+    },
+    "accademically": {
+        "academically": 1,
+        "anatomically": 4,
+        "accidentally": 4,
+        "chemically": 4,
+        "academic": 5
+    },
+    "acceed": {
+        "succeed": 2,
+        "exceed": 2,
+        "accede": 2,
+        "accused": 2,
+        "ascend": 2
+    },
+    "acellerate": {
+        "accelerate": 2,
+        "decelerate": 3,
+        "accelerated": 3,
+        "celebrate": 3,
+        "adulterated": 4
+    },
+    "achsends": {
+        "ashen": 4,
+        "accede": 4,
+        "accused": 4,
+        "assent": 4,
+        "send": 4
+    },
+    "acept": {
+        "accept": 1,
+        "adept": 1,
+        "kept": 2,
+        "ascent": 2,
+        "except": 2
+    },
+    "axcept": {
+        "except": 1,
+        "accept": 1,
+        "ascent": 2,
+        "excerpt": 2,
+        "adept": 2
+    },
+    "except": {
+        "except": 0,
+        "excerpt": 1,
+        "exceed": 2,
+        "expert": 2,
+        "extent": 2
+    },
+    "Acceptable": {
+        "acceptable": 1,
+        "acceptance": 3,
+        "unacceptable": 3,
+        "receptacle": 3,
+        "vegetable": 4
+    },
+    "accepball": {
+        "screwball": 3,
+        "acceptable": 3,
+        "accentual": 4,
+        "accepting": 4,
+        "acceptance": 4
+    },
+    "acceptably": {
+        "acceptable": 1,
+        "acceptance": 3,
+        "unacceptable": 3,
+        "acceptability": 3,
+        "agreeably": 4
+    },
+    "acceptiable": {
+        "acceptable": 1,
+        "acceptance": 3,
+        "unacceptable": 3,
+        "accessible": 3,
+        "accentual": 4
+    },
+    "acceptible": {
+        "acceptable": 1,
+        "accessible": 2,
+        "perceptible": 3,
+        "accepting": 3,
+        "acceptance": 3
+    },
+    "aceptable": {
+        "acceptable": 1,
+        "adaptable": 2,
+        "acceptance": 3,
+        "unacceptable": 3,
+        "amenable": 3
+    },
+    "aceptible": {
+        "acceptable": 2,
+        "perceptible": 3,
+        "adaptable": 3,
+        "accessible": 3,
+        "susceptible": 3
+    },
+    "acetable": {
+        "amenable": 2,
+        "acceptable": 2,
+        "acetate": 2,
+        "vegetable": 3,
+        "agreeable": 3
+    },
+    "ackceptable": {
+        "acceptable": 1,
+        "acceptance": 3,
+        "unacceptable": 3,
+        "perceptible": 4,
+        "marketable": 4
+    },
+    "ackeptable": {
+        "acceptable": 1,
+        "marketable": 3,
+        "acceptance": 3,
+        "unacceptable": 3,
+        "adaptable": 3
+    },
+    "acksecetable": {
+        "acceptable": 4,
+        "vegetable": 5,
+        "agreeable": 5,
+        "marketable": 5,
+        "creditable": 5
+    },
+    "ackseptable": {
+        "acceptable": 2,
+        "marketable": 4,
+        "acceptance": 4,
+        "unacceptable": 4,
+        "adaptable": 4
+    },
+    "acseptable": {
+        "acceptable": 1,
+        "acceptance": 3,
+        "unacceptable": 3,
+        "adaptable": 3,
+        "vegetable": 4
+    },
+    "actable": {
+        "stable": 2,
+        "notable": 2,
+        "cable": 2,
+        "ratable": 2,
+        "affable": 2
+    },
+    "actceptable": {
+        "acceptable": 1,
+        "acceptance": 3,
+        "unacceptable": 3,
+        "perceptible": 4,
+        "adaptable": 4
+    },
+    "actseptable": {
+        "acceptable": 2,
+        "acceptance": 4,
+        "unacceptable": 4,
+        "adaptable": 4,
+        "detectable": 4
+    },
+    "actsepterable": {
+        "acceptable": 4,
+        "inseparable": 5,
+        "separable": 5,
+        "insuperable": 5,
+        "answerable": 5
+    },
+    "asseptable": {
+        "acceptable": 2,
+        "adaptable": 3,
+        "assemble": 3,
+        "vegetable": 4,
+        "inseparable": 4
+    },
+    "axceptable": {
+        "acceptable": 1,
+        "acceptance": 3,
+        "unacceptable": 3,
+        "adaptable": 3,
+        "receptacle": 3
+    },
+    "axceptiable": {
+        "acceptable": 2,
+        "perceptible": 4,
+        "acceptance": 4,
+        "unacceptable": 4,
+        "adaptable": 4
+    },
+    "axeptable": {
+        "adaptable": 2,
+        "acceptable": 2,
+        "amenable": 3,
+        "eatable": 3,
+        "expectable": 3
+    },
+    "ecceptable": {
+        "acceptable": 1,
+        "perceptible": 3,
+        "acceptance": 3,
+        "unacceptable": 3,
+        "receptacle": 3
+    },
+    "exactible": {
+        "deductible": 3,
+        "exactly": 3,
+        "exhaustible": 3,
+        "eatable": 3,
+        "exacting": 3
+    },
+    "exceptable": {
+        "acceptable": 2,
+        "expectable": 2,
+        "perceptible": 3,
+        "expendable": 3,
+        "excusable": 3
+    },
+    "excepteable": {
+        "acceptable": 3,
+        "expectable": 3,
+        "perceptible": 4,
+        "expendable": 4,
+        "excusable": 4
+    },
+    "exceptial": {
+        "exceptional": 2,
+        "exception": 2,
+        "except": 3,
+        "essential": 3,
+        "sceptical": 3
+    },
+    "exceptible": {
+        "perceptible": 2,
+        "exception": 3,
+        "acceptable": 3,
+        "susceptible": 3,
+        "expectable": 3
+    },
+    "exsaptible": {
+        "exhaustible": 3,
+        "insatiable": 4,
+        "perceptible": 4,
+        "versatile": 4,
+        "adaptable": 4
+    },
+    "exseptable": {
+        "expectable": 2,
+        "expendable": 3,
+        "acceptable": 3,
+        "vegetable": 4,
+        "inseparable": 4
+    },
+    "exsestible": {
+        "expressible": 3,
+        "digestible": 3,
+        "exhaustible": 3,
+        "expectable": 3,
+        "ensemble": 4
+    },
+    "exzeptable": {
+        "expectable": 2,
+        "expendable": 3,
+        "acceptable": 3,
+        "vegetable": 4,
+        "timetable": 4
+    },
+    "acceptence": {
+        "acceptance": 1,
+        "accepting": 3,
+        "acceptable": 3,
+        "accepted": 3,
+        "incipience": 4
+    },
+    "acepted": {
+        "accepted": 1,
+        "adapted": 2,
+        "accented": 2,
+        "scented": 2,
+        "adopted": 2
+    },
+    "excepted": {
+        "exceed": 2,
+        "except": 2,
+        "expected": 2,
+        "excited": 2,
+        "accepted": 2
+    },
+    "execpted": {
+        "executed": 1,
+        "expected": 2,
+        "elected": 2,
+        "excited": 2,
+        "execute": 2
+    },
+    "acess": {
+        "access": 1,
+        "amass": 2,
+        "caress": 2,
+        "across": 2,
+        "ace": 2
+    },
+    "accessability": {
+        "accessibility": 1,
+        "acceptability": 2,
+        "accountability": 4,
+        "advisability": 4,
+        "impossibility": 5
+    },
+    "accesible": {
+        "accessible": 1,
+        "inaccessible": 3,
+        "credible": 3,
+        "acceptable": 3,
+        "agreeable": 4
+    },
+    "accessable": {
+        "accessible": 1,
+        "acceptable": 2,
+        "inaccessible": 3,
+        "agreeable": 4,
+        "accessory": 4
+    },
+    "accesing": {
+        "accusing": 1,
+        "accepting": 2,
+        "accenting": 2,
+        "chewing": 3,
+        "focusing": 3
+    },
+    "accesion": {
+        "accretion": 2,
+        "adhesion": 2,
+        "occasion": 2,
+        "auction": 3,
+        "cohesion": 3
+    },
+    "a_canet": {
+        "planet": 3,
+        "ascent": 3,
+        "cadet": 3,
+        "cane": 3,
+        "secant": 3
+    },
+    "acadent": {
+        "cadet": 2,
+        "accident": 2,
+        "ardent": 2,
+        "academy": 2,
+        "accent": 2
+    },
+    "acats": {
+        "acts": 1,
+        "arts": 2,
+        "amass": 2,
+        "alas": 2,
+        "seats": 2
+    },
+    "accdient": {
+        "ancient": 2,
+        "accident": 2,
+        "accent": 2,
+        "account": 3,
+        "ascent": 3
+    },
+    "accedent": {
+        "accident": 1,
+        "accede": 2,
+        "decedent": 2,
+        "accent": 2,
+        "antecedent": 3
+    },
+    "accend": {
+        "ascend": 1,
+        "accent": 1,
+        "accede": 2,
+        "ascent": 2,
+        "amend": 2
+    },
+    "accicent": {
+        "accident": 1,
+        "ancient": 2,
+        "accent": 2,
+        "account": 3,
+        "ascent": 3
+    },
+    "acciendent": {
+        "accident": 2,
+        "ascending": 4,
+        "accede": 4,
+        "dependent": 4,
+        "ancient": 4
+    },
+    "accierdent": {
+        "accident": 2,
+        "accede": 4,
+        "adherent": 4,
+        "ancient": 4,
+        "achievement": 4
+    },
+    "accsident": {
+        "accident": 1,
+        "ancient": 3,
+        "resident": 3,
+        "dissident": 3,
+        "accent": 3
+    },
+    "accxident": {
+        "accident": 1,
+        "ancient": 3,
+        "accent": 3,
+        "incident": 3,
+        "accidental": 3
+    },
+    "acddent": {
+        "accident": 2,
+        "ardent": 2,
+        "advent": 2,
+        "accent": 2,
+        "evident": 3
+    },
+    "acdend": {
+        "amend": 2,
+        "ascend": 2,
+        "attend": 2,
+        "ardent": 2,
+        "accent": 2
+    },
+    "acdent": {
+        "ardent": 1,
+        "accent": 1,
+        "assent": 2,
+        "ascent": 2,
+        "ancient": 2
+    },
+    "acedcedt": {
+        "accede": 3,
+        "accept": 3,
+        "accent": 3,
+        "seedbed": 4,
+        "secede": 4
+    },
+    "acedent": {
+        "accident": 2,
+        "ardent": 2,
+        "decedent": 2,
+        "accent": 2,
+        "cement": 2
+    },
+    "aciadent": {
+        "accident": 2,
+        "evident": 3,
+        "ancient": 3,
+        "adjacent": 3,
+        "cadet": 3
+    },
+    "aciddent": {
+        "accident": 2,
+        "evident": 3,
+        "ancient": 3,
+        "ardent": 3,
+        "advent": 3
+    },
+    "acident": {
+        "accident": 1,
+        "evident": 2,
+        "ancient": 2,
+        "ardent": 2,
+        "accent": 2
+    },
+    "aciedent": {
+        "accident": 2,
+        "evident": 3,
+        "accede": 3,
+        "adherent": 3,
+        "ancient": 3
+    },
+    "acist": {
+        "list": 2,
+        "wrist": 2,
+        "cost": 2,
+        "arise": 2,
+        "mist": 2
+    },
+    "acs": {
+        "ace": 1,
+        "as": 1,
+        "act": 1,
+        "ass": 1,
+        "acts": 1
+    },
+    "acsdent": {
+        "assent": 2,
+        "ascent": 2,
+        "accident": 2,
+        "absent": 2,
+        "ardent": 2
+    },
+    "acsedent": {
+        "accident": 2,
+        "accede": 3,
+        "assent": 3,
+        "ascent": 3,
+        "adherent": 3
+    },
+    "acsident": {
+        "accident": 1,
+        "resident": 2,
+        "aside": 3,
+        "evident": 3,
+        "assent": 3
+    },
+    "addinent": {
+        "imminent": 3,
+        "adherent": 3,
+        "ancient": 3,
+        "eminent": 3,
+        "sediment": 3
+    },
+    "advainet": {
+        "advance": 3,
+        "drained": 3,
+        "advice": 3,
+        "advise": 3,
+        "adviser": 3
+    },
+    "afanat": {
+        "afloat": 2,
+        "fast": 3,
+        "affect": 3,
+        "aunt": 3,
+        "infant": 3
+    },
+    "agisted": {
+        "listed": 2,
+        "twisted": 2,
+        "agitated": 2,
+        "gifted": 2,
+        "assisted": 2
+    },
+    "akcdent": {
+        "ascent": 2,
+        "ancient": 2,
+        "accident": 2,
+        "ardent": 2,
+        "accent": 2
+    },
+    "aken": {
+        "oaken": 1,
+        "akin": 1,
+        "amen": 1,
+        "taken": 1,
+        "ken": 1
+    },
+    "ancident": {
+        "ancient": 1,
+        "accident": 1,
+        "incident": 1,
+        "ancients": 2,
+        "incipient": 3
+    },
+    "andandn": {
+        "abandon": 3,
+        "dandy": 3,
+        "pandanus": 3,
+        "inland": 3,
+        "anode": 4
+    },
+    "andet": {
+        "anode": 2,
+        "audit": 2,
+        "anew": 2,
+        "net": 2,
+        "bandit": 2
+    },
+    "andexns": {
+        "annex": 3,
+        "antenna": 3,
+        "aides": 3,
+        "ardent": 3,
+        "index": 3
+    },
+    "andient": {
+        "ancient": 1,
+        "indigent": 2,
+        "ancients": 2,
+        "ardent": 2,
+        "advent": 2
+    },
+    "andint": {
+        "audit": 2,
+        "bandit": 2,
+        "ancient": 2,
+        "ending": 2,
+        "ardent": 2
+    },
+    "andires": {
+        "attired": 3,
+        "attire": 3,
+        "mandrel": 3,
+        "endure": 3,
+        "aired": 3
+    },
+    "anitharent": {
+        "adherent": 4,
+        "univalent": 4,
+        "inherent": 4,
+        "incoherent": 4,
+        "banishment": 4
+    },
+    "anteght": {
+        "knight": 3,
+        "intent": 3,
+        "night": 3,
+        "integer": 3,
+        "antenna": 3
+    },
+    "asabed": {
+        "saved": 2,
+        "saber": 2,
+        "ashamed": 2,
+        "abed": 2,
+        "amazed": 2
+    },
+    "asadun": {
+        "salon": 3,
+        "aside": 3,
+        "laden": 3,
+        "abandon": 3,
+        "ashen": 3
+    },
+    "ascended": {
+        "ascend": 2,
+        "attended": 2,
+        "amended": 2,
+        "accented": 2,
+        "scented": 2
+    },
+    "asde": {
+        "aside": 1,
+        "aide": 1,
+        "anode": 2,
+        "de": 2,
+        "sue": 2
+    },
+    "asden": {
+        "ashen": 1,
+        "aspen": 1,
+        "aside": 2,
+        "hasten": 2,
+        "laden": 2
+    },
+    "asdent": {
+        "assent": 1,
+        "ascent": 1,
+        "ardent": 1,
+        "nascent": 2,
+        "ashen": 2
+    },
+    "ased": {
+        "cased": 1,
+        "abed": 1,
+        "aged": 1,
+        "eased": 1,
+        "awed": 1
+    },
+    "asedend": {
+        "ascend": 2,
+        "aside": 3,
+        "seed": 3,
+        "ashen": 3,
+        "astound": 3
+    },
+    "aserdent": {
+        "ardent": 2,
+        "serpent": 2,
+        "assent": 3,
+        "ascent": 3,
+        "verdant": 3
+    },
+    "asident": {
+        "aside": 2,
+        "evident": 2,
+        "assent": 2,
+        "ascent": 2,
+        "silent": 2
+    },
+    "askedent": {
+        "assent": 3,
+        "ascent": 3,
+        "adherent": 3,
+        "accident": 3,
+        "easement": 3
+    },
+    "askendent": {
+        "ascending": 3,
+        "dependent": 3,
+        "attendant": 3,
+        "amendment": 3,
+        "defendant": 4
+    },
+    "asterdet": {
+        "mastered": 3,
+        "street": 3,
+        "stereo": 3,
+        "assert": 3,
+        "attended": 3
+    },
+    "ataren": {
+        "aware": 2,
+        "awaken": 2,
+        "taken": 2,
+        "stare": 2,
+        "attired": 3
+    },
+    "axcident": {
+        "accident": 1,
+        "ancient": 2,
+        "incident": 2,
+        "evident": 3,
+        "ascent": 3
+    },
+    "axed": {
+        "abed": 1,
+        "axe": 1,
+        "aged": 1,
+        "awed": 1,
+        "waxed": 1
+    },
+    "axedent": {
+        "ardent": 2,
+        "evident": 3,
+        "element": 3,
+        "repent": 3,
+        "assent": 3
+    },
+    "axedents": {
+        "ancients": 3,
+        "ardent": 3,
+        "elements": 3,
+        "evident": 4,
+        "ageless": 4
+    },
+    "axedet": {
+        "anode": 3,
+        "audit": 3,
+        "aside": 3,
+        "fleet": 3,
+        "beset": 3
+    },
+    "axerdent": {
+        "ardent": 2,
+        "verdant": 3,
+        "adherent": 3,
+        "percent": 3,
+        "aberrant": 3
+    },
+    "axident": {
+        "evident": 2,
+        "accident": 2,
+        "ardent": 2,
+        "aside": 3,
+        "abiding": 3
+    },
+    "axidint": {
+        "abiding": 2,
+        "audit": 3,
+        "appoint": 3,
+        "evident": 3,
+        "riding": 3
+    },
+    "axs": {
+        "axe": 1,
+        "ax": 1,
+        "as": 1,
+        "axis": 1,
+        "ass": 1
+    },
+    "axseadent": {
+        "antecedent": 4,
+        "dependent": 4,
+        "assent": 4,
+        "ascent": 4,
+        "leaden": 4
+    },
+    "castan": {
+        "capstan": 1,
+        "hasten": 2,
+        "coastal": 2,
+        "castor": 2,
+        "castle": 2
+    },
+    "esadend": {
+        "loaded": 3,
+        "shaded": 3,
+        "eroded": 3,
+        "evident": 3,
+        "laden": 3
+    },
+    "exded": {
+        "ended": 1,
+        "exceed": 2,
+        "eroded": 2,
+        "leaded": 2,
+        "edged": 2
+    },
+    "exedelt": {
+        "evident": 3,
+        "element": 3,
+        "except": 3,
+        "expert": 3,
+        "extent": 3
+    },
+    "exedent": {
+        "evident": 2,
+        "element": 2,
+        "extent": 2,
+        "decedent": 2,
+        "expedient": 2
+    },
+    "exiedent": {
+        "evident": 2,
+        "expedient": 2,
+        "existent": 2,
+        "element": 3,
+        "excellent": 3
+    },
+    "harcent": {
+        "garment": 2,
+        "nascent": 2,
+        "ascent": 2,
+        "percent": 2,
+        "harvest": 2
+    },
+    "sedent": {
+        "repent": 2,
+        "silent": 2,
+        "seventy": 2,
+        "sediment": 2,
+        "sent": 2
+    },
+    "xedet": {
+        "beset": 2,
+        "meet": 2,
+        "cadet": 2,
+        "edit": 2,
+        "beget": 2
+    },
+    "accidently": {
+        "anciently": 2,
+        "accident": 2,
+        "accidentally": 2,
+        "accidental": 2,
+        "occidental": 3
+    },
+    "accmodate": {
+        "accommodate": 2,
+        "accumulate": 3,
+        "accurate": 3,
+        "accolade": 3,
+        "advocate": 4
+    },
+    "accodate": {
+        "accurate": 2,
+        "accolade": 2,
+        "advocate": 3,
+        "accede": 3,
+        "account": 3
+    },
+    "accomadate": {
+        "accommodate": 2,
+        "accumulate": 3,
+        "accolade": 3,
+        "accomplice": 4,
+        "accurate": 4
+    },
+    "accomadite": {
+        "accomplice": 3,
+        "accommodate": 3,
+        "accolade": 3,
+        "accumulate": 4,
+        "recondite": 4
+    },
+    "accomdate": {
+        "accommodate": 2,
+        "accumulate": 3,
+        "accurate": 3,
+        "automate": 3,
+        "accolade": 3
+    },
+    "accomidate": {
+        "accommodate": 2,
+        "accumulate": 3,
+        "accomplice": 4,
+        "assimilate": 4,
+        "dominate": 4
+    },
+    "accommadate": {
+        "accommodate": 1,
+        "accumulate": 4,
+        "accommodation": 4,
+        "accolade": 4,
+        "accommodating": 4
+    },
+    "accommdate": {
+        "accommodate": 1,
+        "accumulate": 3,
+        "accomplice": 4,
+        "accurate": 4,
+        "accumulated": 4
+    },
+    "accommedate": {
+        "accommodate": 1,
+        "accumulate": 4,
+        "accommodation": 4,
+        "accelerate": 4,
+        "accommodating": 4
+    },
+    "accommidate": {
+        "accommodate": 1,
+        "accumulate": 4,
+        "accommodation": 4,
+        "accommodating": 4,
+        "accomplice": 5
+    },
+    "accommodation": {
+        "accommodation": 0,
+        "accommodating": 2,
+        "accommodate": 3,
+        "commutation": 4,
+        "commotion": 4
+    },
+    "accommondate": {
+        "accommodate": 1,
+        "accommodation": 4,
+        "accommodating": 4,
+        "accumulate": 5,
+        "commonplace": 5
+    },
+    "accomnadate": {
+        "accommodate": 2,
+        "accumulate": 4,
+        "accolade": 4,
+        "accentuate": 4,
+        "accomplice": 5
+    },
+    "accomnodate": {
+        "accommodate": 1,
+        "accumulate": 4,
+        "accommodation": 4,
+        "accentuate": 4,
+        "accommodating": 4
+    },
+    "accomodat": {
+        "accommodate": 2,
+        "accumulate": 4,
+        "account": 4,
+        "accord": 4,
+        "accommodation": 4
+    },
+    "accomodate": {
+        "accommodate": 1,
+        "accumulate": 3,
+        "accomplice": 4,
+        "accurate": 4,
+        "accumulated": 4
+    },
+    "accomodaty": {
+        "accommodate": 2,
+        "accompany": 3,
+        "accumulate": 4,
+        "accommodation": 4,
+        "commodity": 4
+    },
+    "accomode": {
+        "accolade": 2,
+        "accede": 3,
+        "accord": 3,
+        "accommodate": 3,
+        "anode": 4
+    },
+    "accomodiate": {
+        "accommodate": 2,
+        "accumulate": 4,
+        "accomplice": 4,
+        "recondite": 5,
+        "automotive": 5
+    },
+    "accomondate": {
+        "accommodate": 2,
+        "accumulate": 4,
+        "accomplice": 5,
+        "recondite": 5,
+        "account": 5
+    },
+    "accondate": {
+        "recondite": 3,
+        "accurate": 3,
+        "accommodate": 3,
+        "accolade": 3,
+        "accentuate": 3
+    },
+    "acomadate": {
+        "accommodate": 3,
+        "accumulate": 4,
+        "animate": 4,
+        "dominate": 4,
+        "acolyte": 4
+    },
+    "acomidate": {
+        "dominate": 3,
+        "nominate": 3,
+        "accommodate": 3,
+        "activate": 3,
+        "accumulate": 4
+    },
+    "acommodate": {
+        "accommodate": 1,
+        "commodity": 3,
+        "accumulate": 4,
+        "corporate": 4,
+        "commemorate": 4
+    },
+    "acommodiate": {
+        "accommodate": 2,
+        "commodity": 3,
+        "communicate": 4,
+        "immediate": 4,
+        "composite": 4
+    },
+    "acomodate": {
+        "accommodate": 2,
+        "accumulate": 4,
+        "corporate": 4,
+        "advocate": 4,
+        "animate": 4
+    },
+    "aconadate": {
+        "conjugate": 4,
+        "animate": 4,
+        "recondite": 4,
+        "concave": 4,
+        "candidate": 4
+    },
+    "acromodate": {
+        "accommodate": 2,
+        "accumulate": 4,
+        "cremate": 4,
+        "automate": 4,
+        "arrogate": 4
+    },
+    "eccommodate": {
+        "accommodate": 1,
+        "accommodation": 4,
+        "commodity": 4,
+        "accommodating": 4,
+        "accumulate": 5
+    },
+    "accamadation": {
+        "accommodation": 3,
+        "accumulation": 3,
+        "acclamation": 3,
+        "accusation": 4,
+        "acceleration": 4
+    },
+    "accamation": {
+        "acclamation": 1,
+        "accusation": 2,
+        "excavation": 3,
+        "accretion": 3,
+        "accumulation": 3
+    },
+    "accomadation": {
+        "accommodation": 2,
+        "accumulation": 3,
+        "acclamation": 3,
+        "atomisation": 4,
+        "accusation": 4
+    },
+    "accomdation": {
+        "accommodation": 2,
+        "accusation": 3,
+        "accumulation": 3,
+        "acclamation": 3,
+        "accordion": 3
+    },
+    "accomdition": {
+        "accommodation": 3,
+        "accordion": 3,
+        "condition": 3,
+        "abolition": 4,
+        "acquisition": 4
+    },
+    "accomedation": {
+        "accommodation": 2,
+        "accumulation": 3,
+        "acceleration": 3,
+        "agglomeration": 4,
+        "accretion": 4
+    },
+    "accomidation": {
+        "accommodation": 2,
+        "atomisation": 3,
+        "accumulation": 3,
+        "domination": 4,
+        "compilation": 4
+    },
+    "accommadation": {
+        "accommodation": 1,
+        "accommodating": 3,
+        "commutation": 4,
+        "accumulation": 4,
+        "acclamation": 4
+    },
+    "accommadition": {
+        "accommodation": 2,
+        "acclamation": 4,
+        "accommodating": 4,
+        "commutation": 5,
+        "commotion": 5
+    },
+    "accommidation": {
+        "accommodation": 1,
+        "accommodating": 3,
+        "commutation": 4,
+        "compilation": 4,
+        "atomisation": 4
+    },
+    "accommodiation": {
+        "accommodation": 1,
+        "accommodating": 3,
+        "accommodate": 4,
+        "commutation": 5,
+        "commotion": 5
+    },
+    "accommtation": {
+        "accommodation": 2,
+        "commutation": 3,
+        "accumulation": 3,
+        "acclamation": 3,
+        "commotion": 4
+    },
+    "accomodation": {
+        "accommodation": 1,
+        "accumulation": 3,
+        "accommodating": 3,
+        "atomisation": 4,
+        "accusation": 4
+    },
+    "accondutelion": {
+        "accordion": 5,
+        "conduction": 5,
+        "accreditation": 5,
+        "condition": 5,
+        "commutation": 6
+    },
+    "acomadation": {
+        "atomisation": 3,
+        "accommodation": 3,
+        "acclamation": 3,
+        "commutation": 4,
+        "propagation": 4
+    },
+    "acomedation": {
+        "atomisation": 3,
+        "accommodation": 3,
+        "commendation": 3,
+        "toleration": 4,
+        "commutation": 4
+    },
+    "acomidation": {
+        "atomisation": 2,
+        "domination": 3,
+        "compilation": 3,
+        "nomination": 3,
+        "accommodation": 3
+    },
+    "acommadition": {
+        "accommodation": 3,
+        "commutation": 4,
+        "commotion": 4,
+        "ammunition": 4,
+        "composition": 4
+    },
+    "acommodation": {
+        "accommodation": 1,
+        "commutation": 3,
+        "commotion": 3,
+        "commendation": 3,
+        "accommodating": 3
+    },
+    "acomodation": {
+        "accommodation": 2,
+        "atomisation": 3,
+        "coloration": 3,
+        "commutation": 4,
+        "co-optation": 4
+    },
+    "addcomadiation": {
+        "accommodation": 5,
+        "commutation": 6,
+        "addition": 6,
+        "dramatization": 6,
+        "domination": 6
+    },
+    "comadation": {
+        "commutation": 3,
+        "commotion": 3,
+        "domination": 3,
+        "compilation": 3,
+        "nomination": 3
+    },
+    "ecomodation": {
+        "accommodation": 3,
+        "coloration": 3,
+        "commutation": 4,
+        "evocation": 4,
+        "co-optation": 4
+    },
+    "accomodations": {
+        "accommodation": 2,
+        "accommodating": 3,
+        "accumulation": 4,
+        "atomisation": 5,
+        "accusation": 5
+    },
+    "acompanied": {
+        "accompanied": 1,
+        "unaccompanied": 3,
+        "accompanist": 3,
+        "companion": 3,
+        "commander": 4
+    },
+    "accompanimen": {
+        "accompaniment": 1,
+        "accompanied": 2,
+        "accompanist": 3,
+        "accomplice": 4,
+        "unaccompanied": 4
+    },
+    "acompany": {
+        "company": 1,
+        "accompany": 1,
+        "command": 3,
+        "compact": 3,
+        "compare": 3
+    },
+    "accampaninesing": {
+        "accompaniment": 5,
+        "accompanying": 5,
+        "campaigning": 6,
+        "accompanist": 6,
+        "accompanied": 6
+    },
+    "accmpaning": {
+        "accompanying": 2,
+        "accepting": 3,
+        "accompanist": 3,
+        "accompanied": 3,
+        "comparing": 3
+    },
+    "accominating": {
+        "dominating": 3,
+        "accounting": 3,
+        "vaccinating": 3,
+        "accommodating": 3,
+        "iodinating": 4
+    },
+    "accommampaning": {
+        "accompanying": 4,
+        "accommodating": 4,
+        "accompanist": 5,
+        "accompanied": 5,
+        "commanding": 6
+    },
+    "accompagnying": {
+        "accompanying": 1,
+        "accompanist": 4,
+        "accompanied": 4,
+        "accompany": 4,
+        "commanding": 5
+    },
+    "accompaining": {
+        "accompanying": 2,
+        "complaining": 3,
+        "accompanist": 3,
+        "accompanied": 3,
+        "campaigning": 4
+    },
+    "accompanied": {
+        "accompanied": 0,
+        "unaccompanied": 2,
+        "accompanist": 2,
+        "accompaniment": 3,
+        "accompanying": 3
+    },
+    "accompaning": {
+        "accompanying": 1,
+        "accompanist": 2,
+        "accompanied": 2,
+        "accompaniment": 3,
+        "accompany": 3
+    },
+    "accompanining": {
+        "accompanying": 2,
+        "accompaniment": 3,
+        "complaining": 4,
+        "accompanist": 4,
+        "accompanied": 4
+    },
+    "accompanning": {
+        "accompanying": 1,
+        "accompanist": 3,
+        "accompanied": 3,
+        "commanding": 4,
+        "complaining": 4
+    },
+    "accompany": {
+        "accompany": 0,
+        "company": 2,
+        "accompanying": 3,
+        "accompanist": 3,
+        "accompanied": 3
+    },
+    "accompaying": {
+        "accompanying": 1,
+        "accompanist": 3,
+        "accompanied": 3,
+        "accompany": 3,
+        "comparing": 3
+    },
+    "accompenied": {
+        "accompanied": 1,
+        "unaccompanied": 3,
+        "accompanist": 3,
+        "accomplice": 4,
+        "accomplished": 4
+    },
+    "accompening": {
+        "accompanying": 2,
+        "accompanist": 3,
+        "accompanied": 3,
+        "accomplice": 4,
+        "accepting": 4
+    },
+    "accompied": {
+        "accompanied": 2,
+        "accomplice": 3,
+        "accomplished": 3,
+        "occupied": 3,
+        "accomplish": 3
+    },
+    "accomping": {
+        "accompany": 2,
+        "according": 2,
+        "accomplice": 3,
+        "coping": 3,
+        "oncoming": 3
+    },
+    "accompining": {
+        "accompanying": 2,
+        "compiling": 3,
+        "accompanist": 3,
+        "accompanied": 3,
+        "combining": 3
+    },
+    "accompning": {
+        "accompanying": 2,
+        "accomplice": 3,
+        "accepting": 3,
+        "accomplish": 3,
+        "accompanist": 3
+    },
+    "accompnying": {
+        "accompanying": 1,
+        "accounting": 3,
+        "accomplice": 4,
+        "copying": 4,
+        "accepting": 4
+    },
+    "accomponing": {
+        "accompanying": 2,
+        "composing": 3,
+        "accompanist": 3,
+        "accompanied": 3,
+        "compounding": 4
+    },
+    "accomponying": {
+        "accompanying": 1,
+        "compounding": 4,
+        "composing": 4,
+        "accompanist": 4,
+        "accounting": 4
+    },
+    "accompy": {
+        "accompany": 2,
+        "choppy": 3,
+        "account": 3,
+        "copy": 3,
+        "accord": 3
+    },
+    "accompying": {
+        "accompanying": 2,
+        "accomplice": 3,
+        "copying": 3,
+        "accepting": 3,
+        "accomplish": 3
+    },
+    "accompyning": {
+        "accompanying": 2,
+        "accompanist": 3,
+        "accompanied": 3,
+        "accomplice": 4,
+        "copying": 4
+    },
+    "acconpaning": {
+        "accompanying": 2,
+        "accompanist": 3,
+        "accompanied": 3,
+        "accepting": 4,
+        "confining": 4
+    },
+    "acconpenying": {
+        "accompanying": 2,
+        "condensing": 4,
+        "consenting": 4,
+        "accenting": 4,
+        "convening": 4
+    },
+    "accopaning": {
+        "accompanying": 2,
+        "accepting": 3,
+        "accompanist": 3,
+        "accounting": 3,
+        "accompanied": 3
+    },
+    "accumpanying": {
+        "accompanying": 1,
+        "accompanist": 4,
+        "accompanied": 4,
+        "accompany": 4,
+        "commanding": 5
+    },
+    "accumptaining": {
+        "complaining": 4,
+        "accompanying": 4,
+        "campaigning": 5,
+        "accepting": 5,
+        "accompanist": 5
+    },
+    "acommpanying": {
+        "accompanying": 2,
+        "commanding": 3,
+        "comparing": 4,
+        "compounding": 5,
+        "complaining": 5
+    },
+    "acompamion": {
+        "companion": 2,
+        "comparison": 3,
+        "compassion": 3,
+        "adoption": 4,
+        "compatriot": 4
+    },
+    "acompaning": {
+        "accompanying": 2,
+        "comparing": 2,
+        "commanding": 3,
+        "complaining": 3,
+        "computing": 3
+    },
+    "acompanning": {
+        "accompanying": 2,
+        "commanding": 3,
+        "complaining": 3,
+        "comparing": 3,
+        "compounding": 4
+    },
+    "acompanying": {
+        "accompanying": 1,
+        "commanding": 3,
+        "comparing": 3,
+        "compounding": 4,
+        "complaining": 4
+    },
+    "acompning": {
+        "copying": 3,
+        "coping": 3,
+        "accepting": 3,
+        "computing": 3,
+        "combing": 3
+    },
+    "acumaning": {
+        "cunning": 3,
+        "amazing": 3,
+        "cleaning": 3,
+        "commanding": 4,
+        "assigning": 4
+    },
+    "companying": {
+        "commanding": 2,
+        "accompanying": 2,
+        "comparing": 2,
+        "compounding": 3,
+        "complaining": 3
+    },
+    "occompanying": {
+        "accompanying": 1,
+        "commanding": 4,
+        "accompanist": 4,
+        "accompanied": 4,
+        "accompany": 4
+    },
+    "acomplice": {
+        "accomplice": 1,
+        "accomplish": 3,
+        "complete": 3,
+        "complicate": 3,
+        "compile": 3
+    },
+    "acomplish": {
+        "accomplish": 1,
+        "accomplice": 3,
+        "abolish": 3,
+        "accomplished": 3,
+        "comprise": 3
+    },
+    "acalern": {
+        "cavern": 2,
+        "healer": 3,
+        "cater": 3,
+        "caper": 3,
+        "caller": 3
+    },
+    "acaulle": {
+        "actually": 3,
+        "cause": 3,
+        "accuse": 3,
+        "cable": 3,
+        "caller": 3
+    },
+    "accamplish": {
+        "accomplish": 1,
+        "accomplice": 3,
+        "accomplished": 3,
+        "accompanist": 4,
+        "accumulate": 5
+    },
+    "accaplished": {
+        "accomplished": 2,
+        "established": 4,
+        "accomplish": 4,
+        "cashed": 5,
+        "accomplice": 5
+    },
+    "accomhed": {
+        "accused": 3,
+        "accord": 3,
+        "combed": 3,
+        "accrued": 3,
+        "arched": 3
+    },
+    "accomplish": {
+        "accomplish": 0,
+        "accomplice": 2,
+        "accomplished": 2,
+        "accompanist": 3,
+        "abolish": 4
+    },
+    "aclimplised": {
+        "accomplished": 3,
+        "accomplice": 4,
+        "accomplish": 4,
+        "unlimited": 5,
+        "simplified": 5
+    },
+    "aclomplished": {
+        "accomplished": 1,
+        "accomplish": 3,
+        "accomplice": 4,
+        "accomplishment": 4,
+        "demolished": 5
+    },
+    "aco": {
+        "ago": 1,
+        "ace": 1,
+        "act": 1,
+        "auto": 2,
+        "pace": 2
+    },
+    "acolpleshed": {
+        "accomplished": 3,
+        "compressed": 4,
+        "collected": 4,
+        "coalesced": 4,
+        "completed": 4
+    },
+    "acolplished": {
+        "accomplished": 2,
+        "accomplish": 4,
+        "polished": 4,
+        "accomplice": 5,
+        "demolished": 5
+    },
+    "acombished": {
+        "combined": 3,
+        "accomplished": 3,
+        "combine": 4,
+        "combed": 4,
+        "anguished": 4
+    },
+    "acompilsh": {
+        "compiler": 3,
+        "accomplish": 3,
+        "compile": 3,
+        "lumpish": 4,
+        "compost": 4
+    },
+    "acomplised": {
+        "accomplished": 2,
+        "accomplice": 3,
+        "accomplish": 3,
+        "composed": 3,
+        "completed": 3
+    },
+    "acomplished": {
+        "accomplished": 1,
+        "accomplish": 3,
+        "accomplice": 4,
+        "demolished": 4,
+        "complicated": 4
+    },
+    "acomplisht": {
+        "accomplish": 2,
+        "accomplished": 3,
+        "accomplice": 4,
+        "compost": 4,
+        "abolish": 4
+    },
+    "acomplshed": {
+        "accomplished": 2,
+        "composed": 3,
+        "completed": 3,
+        "accomplice": 4,
+        "compose": 4
+    },
+    "aconase": {
+        "corpse": 3,
+        "acreage": 3,
+        "accuse": 3,
+        "concave": 3,
+        "coast": 3
+    },
+    "aconplised": {
+        "accomplished": 3,
+        "accomplice": 4,
+        "concise": 4,
+        "coupled": 4,
+        "conjoined": 4
+    },
+    "aconplish": {
+        "accomplish": 2,
+        "abolish": 3,
+        "foolish": 4,
+        "accomplice": 4,
+        "economist": 4
+    },
+    "acoplished": {
+        "accomplished": 2,
+        "polished": 3,
+        "demolished": 4,
+        "abolish": 4,
+        "anguished": 4
+    },
+    "acoumpish": {
+        "lumpish": 3,
+        "accomplish": 3,
+        "compost": 4,
+        "compose": 4,
+        "abolish": 4
+    },
+    "acumlished": {
+        "accomplished": 3,
+        "published": 3,
+        "demolished": 4,
+        "burnished": 4,
+        "anguished": 4
+    },
+    "acuplished": {
+        "accomplished": 3,
+        "published": 3,
+        "demolished": 4,
+        "burnished": 4,
+        "anguished": 4
+    },
+    "apcomplished": {
+        "accomplished": 1,
+        "accomplish": 3,
+        "accomplice": 4,
+        "accomplishment": 4,
+        "polished": 4
+    },
+    "comdash": {
+        "compass": 2,
+        "clash": 3,
+        "coach": 3,
+        "compost": 3,
+        "compose": 3
+    },
+    "acaurtens": {
+        "courtesy": 4,
+        "carte": 4,
+        "caress": 4,
+        "accurate": 4,
+        "courteous": 4
+    },
+    "accordars": {
+        "accord": 3,
+        "accordion": 3,
+        "accordance": 3,
+        "according": 3,
+        "accurate": 4
+    },
+    "accordence": {
+        "accordance": 1,
+        "occurrence": 3,
+        "according": 3,
+        "accomplice": 4,
+        "avoidance": 4
+    },
+    "accordences": {
+        "accordance": 2,
+        "accordingly": 4,
+        "occurrence": 4,
+        "according": 4,
+        "accomplice": 5
+    },
+    "accordense": {
+        "accordance": 2,
+        "condense": 3,
+        "according": 3,
+        "accordingly": 4,
+        "accord": 4
+    },
+    "accordince": {
+        "accordance": 1,
+        "according": 2,
+        "accordingly": 3,
+        "accordion": 3,
+        "accomplice": 4
+    },
+    "accrdanse": {
+        "accordance": 2,
+        "acreage": 4,
+        "arrange": 4,
+        "avoidance": 4,
+        "decrease": 4
+    },
+    "acdone": {
+        "done": 2,
+        "cone": 2,
+        "undone": 2,
+        "acetone": 2,
+        "adore": 2
+    },
+    "acoadens": {
+        "broaden": 3,
+        "accident": 3,
+        "condense": 3,
+        "academy": 3,
+        "anode": 4
+    },
+    "acoradance": {
+        "accordance": 2,
+        "avoidance": 3,
+        "arrogance": 4,
+        "attendance": 4,
+        "acceptance": 4
+    },
+    "acordance": {
+        "accordance": 1,
+        "avoidance": 2,
+        "ordnance": 3,
+        "abundance": 3,
+        "corsage": 4
+    },
+    "acordence": {
+        "accordance": 2,
+        "avoidance": 3,
+        "commence": 3,
+        "condense": 3,
+        "cadence": 3
+    },
+    "acordenin": {
+        "anorexia": 4,
+        "academic": 4,
+        "screening": 4,
+        "condemn": 4,
+        "accretion": 4
+    },
+    "acordens": {
+        "cords": 3,
+        "scores": 3,
+        "corded": 3,
+        "cordon": 3,
+        "accident": 3
+    },
+    "acordense": {
+        "condense": 2,
+        "condenser": 3,
+        "accordance": 3,
+        "corpse": 4,
+        "acreage": 4
+    },
+    "acordenst": {
+        "accident": 3,
+        "ardent": 3,
+        "condense": 3,
+        "abhorrent": 4,
+        "contest": 4
+    },
+    "acordise": {
+        "corpse": 3,
+        "arise": 3,
+        "concise": 3,
+        "cords": 3,
+        "amorist": 3
+    },
+    "acordounse": {
+        "arouse": 4,
+        "cordon": 4,
+        "amorous": 4,
+        "condense": 4,
+        "accordance": 4
+    },
+    "acorduse": {
+        "corpse": 3,
+        "accuse": 3,
+        "cords": 3,
+        "arouse": 3,
+        "amorous": 3
+    },
+    "acorrdance": {
+        "accordance": 2,
+        "avoidance": 3,
+        "arrange": 4,
+        "arrogance": 4,
+        "attendance": 4
+    },
+    "acorrdens": {
+        "abhorrent": 4,
+        "corrode": 4,
+        "cords": 4,
+        "scores": 4,
+        "corded": 4
+    },
+    "acourdance": {
+        "accordance": 2,
+        "avoidance": 3,
+        "assurance": 3,
+        "abundance": 3,
+        "attendance": 4
+    },
+    "adcordence": {
+        "accordance": 2,
+        "adherence": 3,
+        "avoidance": 4,
+        "incidence": 4,
+        "commence": 4
+    },
+    "arcordance": {
+        "accordance": 1,
+        "avoidance": 3,
+        "arrogance": 3,
+        "arrange": 4,
+        "importance": 4
+    },
+    "arroduce": {
+        "produce": 2,
+        "product": 3,
+        "introduce": 3,
+        "arrogance": 3,
+        "producer": 3
+    },
+    "condar": {
+        "sonar": 2,
+        "confer": 2,
+        "concur": 2,
+        "wonder": 2,
+        "cinder": 2
+    },
+    "acording": {
+        "according": 1,
+        "scolding": 2,
+        "wording": 2,
+        "coding": 2,
+        "recording": 2
+    },
+    "acordingly": {
+        "accordingly": 1,
+        "accusingly": 3,
+        "alarmingly": 3,
+        "according": 3,
+        "exceedingly": 4
+    },
+    "o": {
+        "o": 0,
+        "on": 1,
+        "f": 1,
+        "n": 1,
+        "8": 1
+    },
+    "acordian": {
+        "accordion": 2,
+        "cordial": 2,
+        "abortion": 3,
+        "comedian": 3,
+        "guardian": 3
+    },
+    "acount": {
+        "amount": 1,
+        "account": 1,
+        "count": 1,
+        "aunt": 2,
+        "court": 2
+    },
+    "acounts": {
+        "amount": 2,
+        "account": 2,
+        "county": 2,
+        "count": 2,
+        "aunt": 3
+    },
+    "accewed": {
+        "accede": 2,
+        "accused": 2,
+        "accrued": 2,
+        "accented": 2,
+        "accepted": 2
+    },
+    "accrewed": {
+        "accrued": 2,
+        "accede": 3,
+        "accused": 3,
+        "agreed": 3,
+        "accredited": 3
+    },
+    "accrode": {
+        "accede": 2,
+        "anode": 3,
+        "acrid": 3,
+        "crude": 3,
+        "accuse": 3
+    },
+    "accrood": {
+        "accord": 2,
+        "accrued": 2,
+        "acrid": 3,
+        "accused": 3,
+        "crowd": 3
+    },
+    "accrored": {
+        "accord": 2,
+        "accrued": 2,
+        "mirrored": 3,
+        "accused": 3,
+        "armored": 3
+    },
+    "accroud": {
+        "accord": 2,
+        "accrued": 2,
+        "acrid": 3,
+        "accused": 3,
+        "account": 3
+    },
+    "accroued": {
+        "accrued": 1,
+        "accused": 3,
+        "account": 3,
+        "accord": 3,
+        "approved": 3
+    },
+    "accroved": {
+        "accrued": 2,
+        "approved": 2,
+        "accused": 3,
+        "approve": 3,
+        "accord": 3
+    },
+    "accrowved": {
+        "accrued": 3,
+        "approved": 3,
+        "crowded": 3,
+        "crowned": 3,
+        "crocked": 4
+    },
+    "accrud": {
+        "accrued": 1,
+        "acrid": 2,
+        "accord": 2,
+        "cord": 3,
+        "crus": 3
+    },
+    "accrude": {
+        "crude": 2,
+        "accuse": 2,
+        "accede": 2,
+        "accrued": 2,
+        "acrid": 3
+    },
+    "accruded": {
+        "accrued": 1,
+        "accused": 2,
+        "occluded": 2,
+        "clouded": 3,
+        "crude": 3
+    },
+    "accrue": {
+        "accrued": 1,
+        "accuse": 2,
+        "accede": 2,
+        "acre": 2,
+        "score": 3
+    },
+    "accrueded": {
+        "accrued": 2,
+        "accede": 3,
+        "accused": 3,
+        "accredited": 3,
+        "occluded": 3
+    },
+    "accruell": {
+        "accrued": 2,
+        "cruel": 3,
+        "cruelly": 3,
+        "actively": 4,
+        "actually": 4
+    },
+    "accruid": {
+        "accrued": 1,
+        "acrid": 2,
+        "afraid": 3,
+        "accuse": 3,
+        "acclaim": 3
+    },
+    "accruide": {
+        "accrued": 2,
+        "acrid": 3,
+        "crude": 3,
+        "accuse": 3,
+        "accede": 3
+    },
+    "accrured": {
+        "accrued": 1,
+        "accused": 2,
+        "accuse": 3,
+        "accord": 3,
+        "cured": 3
+    },
+    "accrute": {
+        "accuse": 2,
+        "accurate": 2,
+        "accrued": 2,
+        "acute": 2,
+        "crude": 3
+    },
+    "accruved": {
+        "accrued": 1,
+        "accused": 2,
+        "accuse": 3,
+        "curved": 3,
+        "carved": 3
+    },
+    "acctrade": {
+        "accurate": 2,
+        "accolade": 2,
+        "accede": 3,
+        "accord": 3,
+        "comrade": 3
+    },
+    "accud": {
+        "acrid": 2,
+        "accuse": 2,
+        "accede": 2,
+        "accused": 2,
+        "accord": 2
+    },
+    "accude": {
+        "accuse": 1,
+        "accede": 1,
+        "crude": 2,
+        "accused": 2,
+        "arcade": 2
+    },
+    "accurate": {
+        "accurate": 0,
+        "accurately": 2,
+        "accuracy": 2,
+        "inaccurate": 2,
+        "actuate": 2
+    },
+    "accurde": {
+        "accuse": 2,
+        "accede": 2,
+        "accord": 2,
+        "accurate": 2,
+        "crude": 3
+    },
+    "accured": {
+        "accused": 1,
+        "accuse": 2,
+        "accord": 2,
+        "cured": 2,
+        "accrued": 2
+    },
+    "accurred": {
+        "accused": 2,
+        "accrued": 2,
+        "acquired": 2,
+        "blurred": 3,
+        "accuse": 3
+    },
+    "accurve": {
+        "accuse": 2,
+        "accurate": 2,
+        "curve": 2,
+        "carve": 3,
+        "accede": 3
+    },
+    "accused": {
+        "accused": 0,
+        "accuse": 1,
+        "amused": 2,
+        "accrued": 2,
+        "focused": 2
+    },
+    "achrue": {
+        "accrued": 2,
+        "acre": 2,
+        "ochre": 2,
+        "ache": 2,
+        "score": 3
+    },
+    "ackcrewd": {
+        "accrued": 3,
+        "attired": 4,
+        "acrid": 4,
+        "aired": 4,
+        "accede": 4
+    },
+    "ackcrude": {
+        "crude": 3,
+        "accuse": 3,
+        "accede": 3,
+        "accrued": 3,
+        "aptitude": 4
+    },
+    "ackrewed": {
+        "agreed": 3,
+        "accrued": 3,
+        "creed": 3,
+        "hackneyed": 3,
+        "greed": 4
+    },
+    "ackrude": {
+        "crude": 2,
+        "acrid": 3,
+        "accuse": 3,
+        "accede": 3,
+        "rude": 3
+    },
+    "ackruid": {
+        "acrid": 2,
+        "accrued": 2,
+        "afraid": 3,
+        "arid": 3,
+        "acid": 3
+    },
+    "acqured": {
+        "acquired": 1,
+        "accused": 2,
+        "cured": 2,
+        "acquire": 2,
+        "assured": 2
+    },
+    "acrauge": {
+        "acreage": 2,
+        "arrange": 2,
+        "crude": 3,
+        "craze": 3,
+        "cause": 3
+    },
+    "acrawed": {
+        "arrayed": 2,
+        "crazed": 2,
+        "aerated": 2,
+        "craved": 2,
+        "clawed": 2
+    },
+    "acreud": {
+        "acrid": 2,
+        "aired": 2,
+        "sacred": 2,
+        "agreed": 2,
+        "acre": 2
+    },
+    "acreued": {
+        "agreed": 2,
+        "accrued": 2,
+        "creed": 2,
+        "greed": 3,
+        "arrayed": 3
+    },
+    "acrewd": {
+        "acrid": 2,
+        "aired": 2,
+        "sacred": 2,
+        "crowd": 2,
+        "crew": 2
+    },
+    "acrewed": {
+        "agreed": 2,
+        "creed": 2,
+        "greed": 3,
+        "arrayed": 3,
+        "acreage": 3
+    },
+    "acrewved": {
+        "acreage": 3,
+        "agreed": 3,
+        "crowded": 3,
+        "craved": 3,
+        "accented": 3
+    },
+    "acrood": {
+        "acrid": 2,
+        "crowd": 2,
+        "accord": 2,
+        "across": 2,
+        "brood": 2
+    },
+    "acroude": {
+        "crude": 2,
+        "arouse": 2,
+        "anode": 3,
+        "acreage": 3,
+        "clouded": 3
+    },
+    "acroved": {
+        "approved": 2,
+        "craved": 2,
+        "proved": 2,
+        "arrayed": 3,
+        "eroded": 3
+    },
+    "acrrued": {
+        "accrued": 1,
+        "arrayed": 3,
+        "acrid": 3,
+        "aired": 3,
+        "married": 3
+    },
+    "acrud": {
+        "acrid": 1,
+        "crus": 2,
+        "crude": 2,
+        "aired": 2,
+        "sacred": 2
+    },
+    "acrude": {
+        "crude": 1,
+        "acrid": 2,
+        "accuse": 2,
+        "accede": 2,
+        "rude": 2
+    },
+    "acrued": {
+        "accrued": 1,
+        "acrid": 2,
+        "aired": 2,
+        "armed": 2,
+        "accused": 2
+    },
+    "acruied": {
+        "acrid": 2,
+        "accused": 2,
+        "accrued": 2,
+        "acquired": 2,
+        "acquitted": 3
+    },
+    "acrute": {
+        "acute": 1,
+        "crude": 2,
+        "accuse": 2,
+        "cute": 2,
+        "chute": 2
+    },
+    "acude": {
+        "acute": 1,
+        "anode": 2,
+        "aside": 2,
+        "crude": 2,
+        "accuse": 2
+    },
+    "acurd": {
+        "curd": 1,
+        "cord": 2,
+        "acrid": 2,
+        "card": 2,
+        "award": 2
+    },
+    "akcrewed": {
+        "agreed": 3,
+        "accrued": 3,
+        "decreed": 3,
+        "creed": 3,
+        "greed": 4
+    },
+    "approve": {
+        "approve": 0,
+        "approved": 1,
+        "prove": 2,
+        "improve": 2,
+        "approval": 2
+    },
+    "approved": {
+        "approved": 0,
+        "approve": 1,
+        "unproved": 2,
+        "approval": 2,
+        "improved": 2
+    },
+    "aprove": {
+        "approve": 1,
+        "prove": 1,
+        "arrive": 2,
+        "apron": 2,
+        "proven": 2
+    },
+    "aquse": {
+        "amuse": 1,
+        "abuse": 1,
+        "muse": 2,
+        "cause": 2,
+        "accuse": 2
+    },
+    "aturely": {
+        "surely": 2,
+        "purely": 2,
+        "acutely": 2,
+        "angrily": 3,
+        "actively": 3
+    },
+    "crude": {
+        "crude": 0,
+        "rude": 1,
+        "crusade": 2,
+        "crus": 2,
+        "craze": 2
+    },
+    "curude": {
+        "crude": 1,
+        "curd": 2,
+        "rude": 2,
+        "cured": 2,
+        "cure": 2
+    },
+    "acumulated": {
+        "accumulated": 1,
+        "accumulate": 2,
+        "cumulate": 2,
+        "formulated": 3,
+        "actuated": 3
+    },
+    "acurate": {
+        "accurate": 1,
+        "crate": 2,
+        "lacerate": 2,
+        "aerate": 2,
+        "acetate": 2
+    },
+    "accruately": {
+        "accurately": 2,
+        "adequately": 3,
+        "acutely": 3,
+        "actually": 4,
+        "ornately": 4
+    },
+    "acustom": {
+        "custom": 1,
+        "customs": 2,
+        "auto": 3,
+        "customer": 3,
+        "castor": 3
+    },
+    "accomused": {
+        "accused": 2,
+        "accuse": 3,
+        "amused": 3,
+        "accrued": 3,
+        "aroused": 3
+    },
+    "accostamned": {
+        "accustomed": 3,
+        "ascertained": 4,
+        "costumed": 4,
+        "accompanied": 4,
+        "contained": 4
+    },
+    "accostemed": {
+        "accustomed": 2,
+        "costumed": 3,
+        "accused": 4,
+        "clustered": 4,
+        "accented": 4
+    },
+    "accostioum": {
+        "accretion": 4,
+        "accusation": 4,
+        "accordion": 4,
+        "auction": 5,
+        "apportion": 5
+    },
+    "accostmed": {
+        "accustomed": 2,
+        "costumed": 3,
+        "accused": 3,
+        "accented": 3,
+        "accepted": 3
+    },
+    "accostom": {
+        "custom": 3,
+        "accustomed": 3,
+        "ancestor": 3,
+        "accessory": 4,
+        "accuse": 4
+    },
+    "accostomed": {
+        "accustomed": 1,
+        "costumed": 3,
+        "unaccustomed": 3,
+        "accused": 4,
+        "customer": 4
+    },
+    "accostumed": {
+        "costumed": 2,
+        "accustomed": 2,
+        "costume": 3,
+        "accused": 4,
+        "accrued": 4
+    },
+    "accostuned": {
+        "costumed": 3,
+        "accustomed": 3,
+        "accused": 4,
+        "account": 4,
+        "accrued": 4
+    },
+    "accoustomed": {
+        "accustomed": 1,
+        "unaccustomed": 3,
+        "costumed": 4,
+        "accused": 4,
+        "customer": 4
+    },
+    "accumotoned": {
+        "accustomed": 3,
+        "accumulated": 4,
+        "accumulate": 5,
+        "acquitted": 5,
+        "accused": 5
+    },
+    "accumstomed": {
+        "accustomed": 1,
+        "unaccustomed": 3,
+        "accused": 4,
+        "customer": 4,
+        "accumulated": 4
+    },
+    "accusstomed": {
+        "accustomed": 1,
+        "unaccustomed": 3,
+        "accused": 4,
+        "customer": 4,
+        "acquitted": 5
+    },
+    "accustinend": {
+        "accustomed": 3,
+        "accused": 4,
+        "accusing": 4,
+        "accusation": 4,
+        "accusingly": 4
+    },
+    "accustiomed": {
+        "accustomed": 1,
+        "unaccustomed": 3,
+        "accused": 4,
+        "customer": 4,
+        "accusation": 4
+    },
+    "accustom": {
+        "custom": 2,
+        "accustomed": 2,
+        "accuse": 3,
+        "accused": 3,
+        "accusing": 3
+    },
+    "accustome": {
+        "accustomed": 1,
+        "accuse": 3,
+        "customer": 3,
+        "custom": 3,
+        "customs": 3
+    },
+    "accustomend": {
+        "accustomed": 1,
+        "unaccustomed": 3,
+        "adjustment": 4,
+        "accused": 4,
+        "customer": 4
+    },
+    "accustomened": {
+        "accustomed": 2,
+        "unaccustomed": 4,
+        "adjustment": 5,
+        "accused": 5,
+        "customer": 5
+    },
+    "accustommed": {
+        "accustomed": 1,
+        "unaccustomed": 3,
+        "accused": 4,
+        "customer": 4,
+        "acquitted": 5
+    },
+    "accustomned": {
+        "accustomed": 1,
+        "unaccustomed": 3,
+        "accused": 4,
+        "customer": 4,
+        "ascertained": 5
+    },
+    "accustoned": {
+        "accustomed": 1,
+        "accused": 3,
+        "unaccustomed": 3,
+        "acquitted": 4,
+        "accuse": 4
+    },
+    "accustumed": {
+        "accustomed": 1,
+        "costumed": 3,
+        "accused": 3,
+        "unaccustomed": 3,
+        "acquitted": 4
+    },
+    "accutomed": {
+        "accustomed": 1,
+        "accused": 3,
+        "unaccustomed": 3,
+        "acquitted": 4,
+        "costumed": 4
+    },
+    "acescintion": {
+        "accretion": 4,
+        "association": 4,
+        "abstention": 4,
+        "destination": 4,
+        "prescription": 4
+    },
+    "acomton": {
+        "common": 2,
+        "cotton": 2,
+        "adoption": 3,
+        "commons": 3,
+        "automaton": 3
+    },
+    "acostom": {
+        "custom": 2,
+        "costs": 3,
+        "castor": 3,
+        "cost": 3,
+        "bosom": 3
+    },
+    "acostomed": {
+        "costumed": 2,
+        "accustomed": 2,
+        "customer": 3,
+        "costume": 3,
+        "astound": 4
+    },
+    "acostum": {
+        "costume": 2,
+        "costumed": 3,
+        "costs": 3,
+        "cost": 3,
+        "custom": 3
+    },
+    "acostumed": {
+        "costumed": 1,
+        "costume": 2,
+        "accustomed": 3,
+        "assumed": 3,
+        "coloured": 4
+    },
+    "acusstomed": {
+        "accustomed": 2,
+        "customer": 3,
+        "costumed": 4,
+        "custom": 4,
+        "customs": 4
+    },
+    "acustem": {
+        "custom": 2,
+        "acute": 2,
+        "accuse": 3,
+        "rusted": 3,
+        "cute": 3
+    },
+    "acustemed": {
+        "accustomed": 2,
+        "costumed": 3,
+        "customer": 3,
+        "austere": 3,
+        "clustered": 3
+    },
+    "acustimend": {
+        "accustomed": 3,
+        "costumed": 4,
+        "adjustment": 4,
+        "customer": 4,
+        "amusement": 4
+    },
+    "acustome": {
+        "customer": 2,
+        "custom": 2,
+        "accustomed": 2,
+        "customs": 2,
+        "custody": 3
+    },
+    "acustomed": {
+        "accustomed": 1,
+        "customer": 2,
+        "costumed": 3,
+        "custom": 3,
+        "customs": 3
+    },
+    "acustomend": {
+        "accustomed": 2,
+        "customer": 3,
+        "costumed": 4,
+        "adjustment": 4,
+        "astound": 4
+    },
+    "acustumed": {
+        "costumed": 2,
+        "accustomed": 2,
+        "customer": 3,
+        "costume": 3,
+        "cultured": 3
+    },
+    "ascostomend": {
+        "accustomed": 3,
+        "costumed": 4,
+        "assortment": 4,
+        "recommend": 5,
+        "adjustment": 5
+    },
+    "ascumend": {
+        "ascend": 2,
+        "acumen": 2,
+        "assumed": 2,
+        "accused": 3,
+        "ascent": 3
+    },
+    "ascustomed": {
+        "accustomed": 1,
+        "customer": 3,
+        "unaccustomed": 3,
+        "costumed": 4,
+        "accused": 4
+    },
+    "ocustommed": {
+        "customer": 3,
+        "accustomed": 3,
+        "stemmed": 4,
+        "costumed": 4,
+        "customary": 4
+    },
+    "uccustumed": {
+        "accustomed": 2,
+        "costumed": 3,
+        "unaccustomed": 3,
+        "accused": 4,
+        "customer": 4
+    },
+    "uscostumed": {
+        "costumed": 2,
+        "costume": 3,
+        "accustomed": 4,
+        "scoured": 4,
+        "assumed": 4
+    },
+    "acke": {
+        "ace": 1,
+        "acre": 1,
+        "ache": 1,
+        "duke": 2,
+        "alike": 2
+    },
+    "ake": {
+        "awe": 1,
+        "take": 1,
+        "ape": 1,
+        "ace": 1,
+        "aku": 1
+    },
+    "acheive": {
+        "chive": 2,
+        "adhesive": 2,
+        "active": 2,
+        "achieve": 2,
+        "acreage": 3
+    },
+    "acheve": {
+        "achieve": 1,
+        "chive": 2,
+        "accede": 2,
+        "scheme": 2,
+        "active": 2
+    },
+    "achi": {
+        "ache": 1,
+        "acrid": 2,
+        "anti": 2,
+        "echo": 2,
+        "ace": 2
+    },
+    "accheived": {
+        "archives": 3,
+        "accredited": 3,
+        "received": 3,
+        "accented": 3,
+        "accepted": 3
+    },
+    "acheived": {
+        "archives": 3,
+        "chive": 3,
+        "checked": 3,
+        "acquired": 3,
+        "adhesive": 3
+    },
+    "acieved": {
+        "achieve": 2,
+        "aired": 3,
+        "clever": 3,
+        "accede": 3,
+        "accused": 3
+    },
+    "achei": {
+        "ache": 1,
+        "ashen": 2,
+        "ace": 2,
+        "acre": 2,
+        "arched": 2
+    },
+    "acheivement": {
+        "achievement": 2,
+        "agreement": 4,
+        "appeasement": 4,
+        "advisement": 4,
+        "bereavement": 4
+    },
+    "acheing": {
+        "aching": 1,
+        "chewing": 2,
+        "acting": 2,
+        "scheming": 2,
+        "arching": 2
+    },
+    "acknoledge": {
+        "acknowledge": 1,
+        "acknowledged": 2,
+        "knowledge": 3,
+        "unacknowledged": 4,
+        "accolade": 4
+    },
+    "accknoldge": {
+        "acknowledge": 3,
+        "acknowledged": 4,
+        "accolade": 4,
+        "accumulate": 5,
+        "anode": 5
+    },
+    "accknowledgement": {
+        "acknowledgement": 1,
+        "acknowledgment": 2,
+        "acknowledge": 5,
+        "acknowledged": 5,
+        "unacknowledged": 7
+    },
+    "accknowledgment": {
+        "acknowledgment": 1,
+        "acknowledgement": 2,
+        "acknowledge": 4,
+        "acknowledged": 4,
+        "unacknowledged": 6
+    },
+    "accknowlegment": {
+        "acknowledgment": 2,
+        "acknowledgement": 3,
+        "acknowledge": 5,
+        "acknowledged": 5,
+        "entanglement": 7
+    },
+    "accoldment": {
+        "accident": 3,
+        "enrollment": 4,
+        "account": 4,
+        "assortment": 4,
+        "accountant": 4
+    },
+    "accolegement": {
+        "acknowledgement": 4,
+        "achievement": 4,
+        "complement": 5,
+        "agreement": 5,
+        "announcement": 5
+    },
+    "accomnoltion": {
+        "accommodation": 3,
+        "commotion": 4,
+        "accumulation": 4,
+        "accomplice": 5,
+        "compulsion": 5
+    },
+    "aceknowledgement": {
+        "acknowledgement": 1,
+        "acknowledgment": 2,
+        "acknowledge": 5,
+        "acknowledged": 5,
+        "unacknowledged": 7
+    },
+    "acknoldge": {
+        "acknowledge": 2,
+        "acknowledged": 3,
+        "anode": 4,
+        "acolyte": 4,
+        "accolade": 4
+    },
+    "acknoledgement": {
+        "acknowledgement": 1,
+        "acknowledgment": 2,
+        "acknowledge": 5,
+        "acknowledged": 5,
+        "announcement": 6
+    },
+    "acknoledgment": {
+        "acknowledgment": 1,
+        "acknowledgement": 2,
+        "acknowledge": 4,
+        "acknowledged": 4,
+        "unacknowledged": 6
+    },
+    "acknoledgmet": {
+        "acknowledgment": 2,
+        "acknowledge": 3,
+        "acknowledgement": 3,
+        "acknowledged": 3,
+        "unacknowledged": 5
+    },
+    "acknolegment": {
+        "acknowledgment": 2,
+        "acknowledgement": 3,
+        "complement": 5,
+        "acknowledge": 5,
+        "adolescent": 5
+    },
+    "acknowayment": {
+        "acknowledgment": 4,
+        "nonpayment": 5,
+        "acknowledgement": 5,
+        "concealment": 5,
+        "adjournment": 6
+    },
+    "acknowedgement": {
+        "acknowledgement": 1,
+        "acknowledgment": 2,
+        "acknowledge": 5,
+        "acknowledged": 5,
+        "announcement": 6
+    },
+    "acknowedgment": {
+        "acknowledgment": 1,
+        "acknowledgement": 2,
+        "acknowledge": 4,
+        "acknowledged": 4,
+        "unacknowledged": 6
+    },
+    "acknowelgement": {
+        "acknowledgement": 2,
+        "acknowledgment": 3,
+        "complement": 6,
+        "acknowledge": 6,
+        "announcement": 6
+    },
+    "acknowldment": {
+        "acknowledgment": 2,
+        "acknowledgement": 3,
+        "acknowledge": 4,
+        "acknowledged": 4,
+        "amendment": 5
+    },
+    "acknowledement": {
+        "acknowledgement": 1,
+        "acknowledgment": 1,
+        "acknowledge": 4,
+        "acknowledged": 4,
+        "unacknowledged": 6
+    },
+    "acknowledge": {
+        "acknowledge": 0,
+        "acknowledged": 1,
+        "knowledge": 2,
+        "unacknowledged": 3,
+        "acknowledgment": 3
+    },
+    "acknowledging": {
+        "acknowledge": 3,
+        "acknowledged": 3,
+        "acknowledgment": 3,
+        "acknowledgement": 4,
+        "unacknowledged": 5
+    },
+    "acknowledgment": {
+        "acknowledgment": 0,
+        "acknowledgement": 1,
+        "acknowledge": 3,
+        "acknowledged": 3,
+        "unacknowledged": 5
+    },
+    "acknowledment": {
+        "acknowledgment": 1,
+        "acknowledgement": 2,
+        "acknowledge": 3,
+        "acknowledged": 3,
+        "unacknowledged": 5
+    },
+    "acknowlegdement": {
+        "acknowledgement": 2,
+        "acknowledgment": 2,
+        "acknowledge": 5,
+        "acknowledged": 5,
+        "unacknowledged": 7
+    },
+    "acknowlegement": {
+        "acknowledgement": 1,
+        "acknowledgment": 2,
+        "acknowledge": 5,
+        "acknowledged": 5,
+        "announcement": 6
+    },
+    "acknowlegment": {
+        "acknowledgment": 1,
+        "acknowledgement": 2,
+        "acknowledge": 4,
+        "acknowledged": 4,
+        "unacknowledged": 6
+    },
+    "acknowlment": {
+        "acknowledgment": 3,
+        "acknowledge": 4,
+        "acknowledgement": 4,
+        "abandonment": 5,
+        "enrollment": 5
+    },
+    "ackolejement": {
+        "acknowledgement": 4,
+        "achievement": 4,
+        "acknowledgment": 4,
+        "complement": 5,
+        "agreement": 5
+    },
+    "ackouledge": {
+        "acknowledge": 2,
+        "acknowledged": 3,
+        "accolade": 4,
+        "college": 4,
+        "knowledge": 4
+    },
+    "ackownledgement": {
+        "acknowledgement": 2,
+        "acknowledgment": 3,
+        "acknowledge": 6,
+        "acknowledged": 6,
+        "complement": 7
+    },
+    "acnoldgement": {
+        "acknowledgement": 3,
+        "announcement": 4,
+        "acknowledgment": 4,
+        "complement": 5,
+        "involvement": 5
+    },
+    "acnoledgement": {
+        "acknowledgement": 2,
+        "acknowledgment": 3,
+        "announcement": 5,
+        "achievement": 5,
+        "enlargement": 5
+    },
+    "acnolegment": {
+        "acknowledgment": 3,
+        "adolescent": 4,
+        "acknowledgement": 4,
+        "denouement": 4,
+        "inclement": 4
+    },
+    "acnologement": {
+        "announcement": 4,
+        "acknowledgement": 4,
+        "complement": 5,
+        "involvement": 5,
+        "allurement": 5
+    },
+    "acnowledgment": {
+        "acknowledgment": 1,
+        "acknowledgement": 2,
+        "acknowledge": 4,
+        "acknowledged": 4,
+        "knowledge": 5
+    },
+    "acquig": {
+        "acquire": 2,
+        "acrid": 3,
+        "accuse": 3,
+        "acting": 3,
+        "acquaint": 3
+    },
+    "actknowlegment": {
+        "acknowledgment": 2,
+        "acknowledgement": 3,
+        "acknowledge": 5,
+        "acknowledged": 5,
+        "entanglement": 6
+    },
+    "agnowlegment": {
+        "acknowledgment": 3,
+        "acknowledgement": 4,
+        "agreement": 5,
+        "announcement": 5,
+        "adolescent": 5
+    },
+    "aknowledgement": {
+        "acknowledgement": 1,
+        "acknowledgment": 2,
+        "acknowledge": 5,
+        "acknowledged": 5,
+        "knowledge": 5
+    },
+    "aknowledgment": {
+        "acknowledgment": 1,
+        "acknowledgement": 2,
+        "acknowledge": 4,
+        "acknowledged": 4,
+        "knowledge": 4
+    },
+    "aknowlege": {
+        "acknowledge": 2,
+        "knowledge": 2,
+        "acknowledged": 3,
+        "allege": 4,
+        "nowhere": 4
+    },
+    "aqnowledgment": {
+        "acknowledgment": 2,
+        "acknowledgement": 3,
+        "acknowledge": 5,
+        "acknowledged": 5,
+        "knowledge": 5
+    },
+    "ecknowledgement": {
+        "acknowledgement": 1,
+        "acknowledgment": 2,
+        "acknowledge": 5,
+        "acknowledged": 5,
+        "knowledge": 6
+    },
+    "ecknowledgment": {
+        "acknowledgment": 1,
+        "acknowledgement": 2,
+        "acknowledge": 4,
+        "acknowledged": 4,
+        "knowledge": 5
+    },
+    "exconolidiemet": {
+        "economist": 7,
+        "consolidated": 7,
+        "considered": 7,
+        "acknowledgement": 7,
+        "economize": 7
+    },
+    "exnowledgment": {
+        "acknowledgment": 3,
+        "acknowledgement": 4,
+        "knowledge": 5,
+        "element": 6,
+        "enrollment": 6
+    },
+    "knowledgement": {
+        "acknowledgement": 2,
+        "acknowledgment": 3,
+        "knowledge": 4,
+        "knowledgeable": 4,
+        "enlargement": 5
+    },
+    "accknowledging": {
+        "acknowledge": 4,
+        "acknowledged": 4,
+        "acknowledgment": 4,
+        "acknowledgement": 5,
+        "unacknowledged": 6
+    },
+    "accnoledgin": {
+        "acknowledge": 4,
+        "acknowledged": 4,
+        "accolade": 5,
+        "accordion": 5,
+        "according": 5
+    },
+    "accnolegde": {
+        "accolade": 3,
+        "accede": 4,
+        "acknowledge": 4,
+        "anode": 5,
+        "allege": 5
+    },
+    "acknodgling": {
+        "angling": 4,
+        "mingling": 5,
+        "scheduling": 5,
+        "consoling": 5,
+        "ascending": 5
+    },
+    "acknoldeing": {
+        "scolding": 4,
+        "according": 4,
+        "smoldering": 5,
+        "soldering": 5,
+        "consoling": 5
+    },
+    "acknoledging": {
+        "acknowledge": 4,
+        "acknowledged": 4,
+        "acknowledgment": 4,
+        "scolding": 5,
+        "challenging": 5
+    },
+    "acknolgeing": {
+        "consoling": 5,
+        "scolding": 5,
+        "acknowledge": 5,
+        "annoying": 5,
+        "coloring": 5
+    },
+    "acknolidge": {
+        "acknowledge": 2,
+        "acknowledged": 3,
+        "accolade": 4,
+        "knowledge": 4,
+        "anode": 5
+    },
+    "acknolleging": {
+        "challenging": 5,
+        "acknowledge": 5,
+        "acknowledged": 5,
+        "collecting": 5,
+        "hollering": 5
+    },
+    "acknologing": {
+        "coloring": 4,
+        "enclosing": 5,
+        "consoling": 5,
+        "scolding": 5,
+        "closing": 5
+    },
+    "acknowedge": {
+        "acknowledge": 1,
+        "acknowledged": 2,
+        "knowledge": 3,
+        "unacknowledged": 4,
+        "acknowledgment": 4
+    },
+    "acknowedging": {
+        "acknowledge": 4,
+        "acknowledged": 4,
+        "acknowledgment": 4,
+        "acknowledgement": 5,
+        "knowing": 5
+    },
+    "acknowing": {
+        "knowing": 2,
+        "unknowing": 2,
+        "all-knowing": 3,
+        "annoying": 3,
+        "crowing": 3
+    },
+    "acknowkling": {
+        "acknowledge": 4,
+        "cowling": 4,
+        "knowing": 4,
+        "unknowing": 4,
+        "scowling": 4
+    },
+    "acknowladging": {
+        "acknowledge": 4,
+        "acknowledged": 4,
+        "acknowledgment": 4,
+        "acknowledgement": 5,
+        "unacknowledged": 6
+    },
+    "acknowldging": {
+        "acknowledge": 4,
+        "acknowledged": 4,
+        "acknowledgment": 4,
+        "scolding": 5,
+        "cowling": 5
+    },
+    "acknowlding": {
+        "scolding": 4,
+        "acknowledge": 4,
+        "cowling": 4,
+        "acknowledged": 4,
+        "knowing": 4
+    },
+    "acknowleckging": {
+        "acknowledge": 5,
+        "acknowledged": 5,
+        "acknowledgment": 5,
+        "acknowledgement": 6,
+        "collecting": 6
+    },
+    "acknowledeing": {
+        "acknowledge": 4,
+        "acknowledgement": 4,
+        "acknowledged": 4,
+        "acknowledgment": 4,
+        "unacknowledged": 6
+    },
+    "acknowledgeing": {
+        "acknowledge": 3,
+        "acknowledgement": 3,
+        "acknowledged": 3,
+        "acknowledgment": 3,
+        "unacknowledged": 5
+    },
+    "acknowledgly": {
+        "acknowledge": 2,
+        "acknowledged": 2,
+        "unacknowledged": 4,
+        "knowledge": 4,
+        "acknowledgment": 4
+    },
+    "acknowleding": {
+        "acknowledge": 3,
+        "acknowledged": 3,
+        "acknowledgment": 4,
+        "unacknowledged": 5,
+        "scolding": 5
+    },
+    "acknowleging": {
+        "acknowledge": 4,
+        "acknowledged": 4,
+        "acknowledgment": 4,
+        "cowling": 5,
+        "acknowledgement": 5
+    },
+    "acknowlging": {
+        "acknowledge": 4,
+        "cowling": 4,
+        "knowing": 4,
+        "unknowing": 4,
+        "scowling": 4
+    },
+    "acknowliging": {
+        "acknowledge": 5,
+        "cowling": 5,
+        "acknowledged": 5,
+        "knowing": 5,
+        "unknowing": 5
+    },
+    "acknowling": {
+        "acknowledge": 3,
+        "cowling": 3,
+        "knowing": 3,
+        "unknowing": 3,
+        "scowling": 3
+    },
+    "acknowloding": {
+        "acknowledge": 4,
+        "acknowledged": 4,
+        "scolding": 5,
+        "cowling": 5,
+        "coloring": 5
+    },
+    "acknownlegeing": {
+        "acknowledge": 5,
+        "acknowledgement": 5,
+        "acknowledged": 5,
+        "acknowledgment": 5,
+        "unacknowledged": 7
+    },
+    "aclongaly": {
+        "along": 4,
+        "wrongly": 4,
+        "strongly": 4,
+        "lonely": 4,
+        "colonial": 4
+    },
+    "acnolagaling": {
+        "unflagging": 5,
+        "concealing": 5,
+        "angling": 5,
+        "mingling": 6,
+        "consoling": 6
+    },
+    "actknowledge": {
+        "acknowledge": 1,
+        "acknowledged": 2,
+        "knowledge": 3,
+        "unacknowledged": 4,
+        "foreknowledge": 4
+    },
+    "aknowledging": {
+        "acknowledge": 4,
+        "acknowledged": 4,
+        "knowledge": 4,
+        "acknowledgment": 4,
+        "acknowledgement": 5
+    },
+    "alknowgding": {
+        "all-knowing": 4,
+        "knowing": 4,
+        "unknowing": 4,
+        "blending": 5,
+        "loading": 5
+    },
+    "anackledge": {
+        "shackled": 4,
+        "knowledge": 4,
+        "allege": 5,
+        "unacknowledged": 5,
+        "acreage": 5
+    },
+    "ecknoligging": {
+        "conflicting": 5,
+        "unflagging": 5,
+        "clogging": 5,
+        "confirming": 6,
+        "enclosing": 6
+    },
+    "ecknowledging": {
+        "acknowledge": 4,
+        "acknowledged": 4,
+        "acknowledgment": 4,
+        "acknowledgement": 5,
+        "knowledge": 5
+    },
+    "ecknowlging": {
+        "cowling": 4,
+        "knowing": 4,
+        "unknowing": 4,
+        "scowling": 4,
+        "howling": 5
+    },
+    "ecnowledging": {
+        "scolding": 5,
+        "challenging": 5,
+        "acknowledge": 5,
+        "cowling": 5,
+        "bootlegging": 5
+    },
+    "ecnuliging": {
+        "enclosing": 4,
+        "enticing": 4,
+        "encouraging": 4,
+        "reclining": 4,
+        "engaging": 4
+    },
+    "ecolinegly": {
+        "knowingly": 4,
+        "politely": 4,
+        "colonel": 4,
+        "smilingly": 4,
+        "movingly": 4
+    },
+    "ecomodyley": {
+        "coldly": 5,
+        "medley": 5,
+        "coolly": 5,
+        "comically": 5,
+        "compiler": 5
+    },
+    "egnoliging": {
+        "enclosing": 4,
+        "enticing": 4,
+        "golfing": 4,
+        "engaging": 4,
+        "agonizing": 4
+    },
+    "aquaint": {
+        "acquaint": 1,
+        "quaint": 1,
+        "audit": 3,
+        "aunt": 3,
+        "appoint": 3
+    },
+    "accountance": {
+        "accountant": 2,
+        "accountable": 2,
+        "acceptance": 3,
+        "accounting": 3,
+        "accordance": 3
+    },
+    "accquaintance": {
+        "acquaintance": 1,
+        "acquaint": 5,
+        "acquainted": 5,
+        "acceptance": 5,
+        "accountant": 5
+    },
+    "accquaintence": {
+        "acquaintance": 2,
+        "acquainted": 4,
+        "acquaint": 5,
+        "acquiesce": 5,
+        "acquiescence": 5
+    },
+    "accquance": {
+        "acceptance": 3,
+        "accordance": 3,
+        "affluence": 4,
+        "quince": 4,
+        "adequate": 4
+    },
+    "accquantence": {
+        "acquaintance": 3,
+        "acquainted": 5,
+        "acquiesce": 5,
+        "acceptance": 5,
+        "occurrence": 5
+    },
+    "accquantience": {
+        "acquaintance": 4,
+        "acquiesce": 5,
+        "acquiescence": 5,
+        "accounting": 5,
+        "transience": 6
+    },
+    "accquantince": {
+        "acquaintance": 3,
+        "accounting": 4,
+        "acquaint": 5,
+        "acquainted": 5,
+        "acceptance": 5
+    },
+    "accquatance": {
+        "acquaintance": 3,
+        "acceptance": 3,
+        "accountant": 4,
+        "accountable": 4,
+        "accordance": 4
+    },
+    "accquiantance": {
+        "acquaintance": 3,
+        "acceptance": 5,
+        "accountant": 5,
+        "acquiescence": 5,
+        "accountable": 5
+    },
+    "accuaintance": {
+        "acquaintance": 1,
+        "acceptance": 4,
+        "capacitance": 5,
+        "admittance": 5,
+        "acquaint": 5
+    },
+    "accuanteance": {
+        "acquaintance": 3,
+        "acceptance": 4,
+        "countenance": 4,
+        "occurrence": 5,
+        "accountant": 5
+    },
+    "accuntence": {
+        "acceptance": 3,
+        "occurrence": 3,
+        "acquaintance": 4,
+        "acquiesce": 4,
+        "accountant": 4
+    },
+    "ackquaintance": {
+        "acquaintance": 1,
+        "acquaint": 5,
+        "acquainted": 5,
+        "capacitance": 6,
+        "admittance": 6
+    },
+    "ackquanting": {
+        "accounting": 3,
+        "squatting": 4,
+        "acquaint": 4,
+        "equating": 4,
+        "counting": 4
+    },
+    "ackquitence": {
+        "acquiesce": 3,
+        "acquaintance": 4,
+        "acquiescence": 4,
+        "acquitted": 5,
+        "affluence": 5
+    },
+    "ackwaintance": {
+        "acquaintance": 2,
+        "capacitance": 5,
+        "admittance": 5,
+        "assistance": 5,
+        "acceptance": 5
+    },
+    "acqauntance": {
+        "acquaintance": 2,
+        "acceptance": 4,
+        "accountant": 4,
+        "accountable": 4,
+        "abundance": 4
+    },
+    "acquaince": {
+        "acquaint": 2,
+        "acquainted": 2,
+        "quince": 3,
+        "acquaintance": 3,
+        "acquiesce": 3
+    },
+    "acquainenec": {
+        "acquainted": 3,
+        "acquaint": 4,
+        "acquaintance": 4,
+        "acquitted": 5,
+        "acquiesce": 5
+    },
+    "acquaint": {
+        "acquaint": 0,
+        "acquainted": 2,
+        "quaint": 2,
+        "piquant": 3,
+        "accusing": 3
+    },
+    "acquaintaince": {
+        "acquaintance": 1,
+        "acquaint": 5,
+        "acquainted": 5,
+        "acquiescence": 5,
+        "capacitance": 6
+    },
+    "acquainted": {
+        "acquainted": 0,
+        "acquitted": 2,
+        "acquaint": 2,
+        "unacquainted": 2,
+        "actuated": 3
+    },
+    "acquaintence": {
+        "acquaintance": 1,
+        "acquainted": 3,
+        "acquaint": 4,
+        "acquiesce": 4,
+        "acquiescence": 4
+    },
+    "acquaintiance": {
+        "acquaintance": 1,
+        "acquaint": 5,
+        "acquainted": 5,
+        "acquiescence": 5,
+        "capacitance": 6
+    },
+    "acquaints": {
+        "acquaint": 1,
+        "acquainted": 2,
+        "quaint": 3,
+        "acquitted": 4,
+        "piquant": 4
+    },
+    "acquaitance": {
+        "acquaintance": 1,
+        "capacitance": 4,
+        "acquaint": 4,
+        "acquainted": 4,
+        "acquiesce": 4
+    },
+    "acquance": {
+        "quince": 3,
+        "askance": 3,
+        "advance": 3,
+        "acquaint": 3,
+        "acquainted": 3
+    },
+    "acquanitence": {
+        "acquaintance": 3,
+        "acquiesce": 4,
+        "acquiescence": 4,
+        "capacitance": 5,
+        "acquaint": 5
+    },
+    "acquantance": {
+        "acquaintance": 1,
+        "acceptance": 4,
+        "abundance": 4,
+        "capacitance": 5,
+        "repentance": 5
+    },
+    "acquantants": {
+        "acquaintance": 3,
+        "acquaint": 4,
+        "accountant": 4,
+        "castanets": 5,
+        "acquainted": 5
+    },
+    "acquantenc": {
+        "acquainted": 3,
+        "acquaintance": 3,
+        "acquitted": 4,
+        "acquaint": 4,
+        "actuated": 4
+    },
+    "acquantence": {
+        "acquaintance": 2,
+        "acquainted": 4,
+        "acquiesce": 4,
+        "acquiescence": 4,
+        "acquitted": 5
+    },
+    "acquantiance": {
+        "acquaintance": 2,
+        "acquaint": 5,
+        "acquainted": 5,
+        "acquiesce": 5,
+        "acceptance": 5
+    },
+    "acquantice": {
+        "acquaintance": 3,
+        "acquaint": 4,
+        "acquainted": 4,
+        "acquiesce": 4,
+        "acquire": 4
+    },
+    "acquantience": {
+        "acquaintance": 3,
+        "acquiesce": 4,
+        "acquiescence": 4,
+        "transience": 5,
+        "impatience": 5
+    },
+    "acquatience": {
+        "acquiesce": 3,
+        "impatience": 4,
+        "acquaint": 4,
+        "acquainted": 4,
+        "acquaintance": 4
+    },
+    "acquiance": {
+        "acquiesce": 2,
+        "quince": 3,
+        "alliance": 3,
+        "acquaintance": 3,
+        "ambiance": 3
+    },
+    "acquiantance": {
+        "acquaintance": 2,
+        "acquiescence": 4,
+        "admittance": 5,
+        "assistance": 5,
+        "acquiesce": 5
+    },
+    "acqunatince": {
+        "acquaint": 4,
+        "acquainted": 4,
+        "acquaintance": 4,
+        "lunatic": 5,
+        "quince": 5
+    },
+    "acquontence": {
+        "acquaintance": 3,
+        "acquiesce": 4,
+        "acquiescence": 4,
+        "acquitted": 5,
+        "acquainted": 5
+    },
+    "acuquontence": {
+        "acquaintance": 4,
+        "acquiesce": 5,
+        "acquiescence": 5,
+        "acquitted": 6,
+        "affluence": 6
+    },
+    "aqquaintance": {
+        "acquaintance": 1,
+        "admittance": 5,
+        "acquaint": 5,
+        "acquainted": 5,
+        "assistance": 5
+    },
+    "aqquantance": {
+        "acquaintance": 2,
+        "abundance": 4,
+        "repentance": 5,
+        "admittance": 5,
+        "attendance": 5
+    },
+    "aquaintance": {
+        "acquaintance": 1,
+        "admittance": 4,
+        "assistance": 4,
+        "abundance": 4,
+        "capacitance": 5
+    },
+    "aquainted": {
+        "acquainted": 1,
+        "acquitted": 3,
+        "acquaint": 3,
+        "quilted": 3,
+        "painted": 3
+    },
+    "aquaintence": {
+        "acquaintance": 2,
+        "acquainted": 4,
+        "audience": 4,
+        "abstinence": 4,
+        "equivalence": 5
+    },
+    "aquaintents": {
+        "acquainted": 4,
+        "acquaintance": 4,
+        "quintet": 4,
+        "attainment": 4,
+        "intent": 5
+    },
+    "aquaints": {
+        "acquaint": 2,
+        "quaint": 2,
+        "acquainted": 3,
+        "quits": 3,
+        "audit": 4
+    },
+    "aquanitance": {
+        "acquaintance": 3,
+        "capacitance": 4,
+        "abundance": 4,
+        "quince": 5,
+        "qualitative": 5
+    },
+    "aquantaince": {
+        "acquaintance": 3,
+        "abundance": 4,
+        "quince": 5,
+        "repentance": 5,
+        "admittance": 5
+    },
+    "aquantance": {
+        "acquaintance": 2,
+        "abundance": 3,
+        "repentance": 4,
+        "admittance": 4,
+        "attendance": 4
+    },
+    "aquantience": {
+        "transience": 4,
+        "impatience": 4,
+        "acquaintance": 4,
+        "audience": 4,
+        "patience": 4
+    },
+    "aquatance": {
+        "acquaintance": 3,
+        "abundance": 3,
+        "quince": 4,
+        "avoidance": 4,
+        "askance": 4
+    },
+    "aqucuntance": {
+        "acquaintance": 3,
+        "acceptance": 4,
+        "abundance": 4,
+        "capacitance": 5,
+        "repentance": 5
+    },
+    "aquentance": {
+        "repentance": 3,
+        "attendance": 3,
+        "acquaintance": 3,
+        "acceptance": 3,
+        "abundance": 3
+    },
+    "aquentence": {
+        "sentence": 3,
+        "repentance": 4,
+        "absentee": 4,
+        "attendance": 4,
+        "acquaintance": 4
+    },
+    "atquantes": {
+        "acquainted": 3,
+        "acquitted": 4,
+        "adequate": 4,
+        "piquant": 4,
+        "acquaint": 4
+    },
+    "occquance": {
+        "occupancy": 3,
+        "quince": 4,
+        "occlusive": 4,
+        "chance": 4,
+        "ordinance": 4
+    },
+    "aquantences": {
+        "acquaintance": 4,
+        "amanuensis": 5,
+        "unfenced": 5,
+        "squandered": 5,
+        "sentence": 5
+    },
+    "aquiese": {
+        "acquiesce": 2,
+        "quince": 3,
+        "guise": 3,
+        "allies": 3,
+        "arise": 3
+    },
+    "acquiesence": {
+        "acquiescence": 1,
+        "acquiesce": 2,
+        "acquaintance": 4,
+        "equivalence": 5,
+        "acquitted": 5
+    },
+    "aquire": {
+        "acquire": 1,
+        "squire": 1,
+        "attire": 2,
+        "inquire": 2,
+        "admire": 2
+    },
+    "aquisistion": {
+        "acquisition": 2,
+        "requisition": 3,
+        "admission": 4,
+        "question": 4,
+        "audition": 4
+    },
+    "accour": {
+        "account": 2,
+        "accord": 2,
+        "actor": 2,
+        "occur": 2,
+        "scour": 2
+    },
+    "acer": {
+        "ace": 1,
+        "pacer": 1,
+        "pier": 2,
+        "pace": 2,
+        "apex": 2
+    },
+    "acher": {
+        "ache": 1,
+        "ocher": 1,
+        "char": 2,
+        "rancher": 2,
+        "washer": 2
+    },
+    "accross": {
+        "across": 1,
+        "access": 2,
+        "actress": 2,
+        "cross": 2,
+        "accuse": 3
+    },
+    "acroos": {
+        "across": 1,
+        "crook": 2,
+        "cross": 2,
+        "acres": 2,
+        "aloof": 3
+    },
+    "acros": {
+        "across": 1,
+        "acres": 1,
+        "acrid": 2,
+        "crus": 2,
+        "crow": 2
+    },
+    "akt": {
+        "ant": 1,
+        "at": 1,
+        "apt": 1,
+        "aku": 1,
+        "act": 1
+    },
+    "at": {
+        "at": 0,
+        "fat": 1,
+        "hat": 1,
+        "bat": 1,
+        "ant": 1
+    },
+    "actting": {
+        "acting": 1,
+        "putting": 2,
+        "matting": 2,
+        "cutting": 2,
+        "rotting": 2
+    },
+    "acttive": {
+        "active": 1,
+        "attire": 2,
+        "festive": 3,
+        "actively": 3,
+        "attired": 3
+    },
+    "activally": {
+        "actively": 2,
+        "actually": 2,
+        "tactically": 2,
+        "practically": 3,
+        "axially": 3
+    },
+    "activerties": {
+        "activation": 4,
+        "activate": 4,
+        "activating": 4,
+        "activated": 4,
+        "actively": 5
+    },
+    "activeties": {
+        "activation": 3,
+        "activate": 3,
+        "activating": 3,
+        "activated": 3,
+        "actively": 4
+    },
+    "activites": {
+        "activity": 2,
+        "activate": 2,
+        "activated": 2,
+        "active": 3,
+        "activism": 3
+    },
+    "activitys": {
+        "activity": 1,
+        "actively": 3,
+        "acidity": 3,
+        "reactivity": 3,
+        "inactivity": 3
+    },
+    "acks": {
+        "acts": 1,
+        "sack": 2,
+        "arts": 2,
+        "alas": 2,
+        "hack": 2
+    },
+    "actuall": {
+        "actually": 1,
+        "actual": 1,
+        "tactual": 2,
+        "tactually": 2,
+        "factual": 2
+    },
+    "actural": {
+        "actual": 1,
+        "tactual": 2,
+        "aural": 2,
+        "actuarial": 2,
+        "natural": 2
+    },
+    "acarly": {
+        "yearly": 2,
+        "curly": 2,
+        "scary": 2,
+        "nearly": 2,
+        "carry": 2
+    },
+    "accle": {
+        "accuse": 2,
+        "accede": 2,
+        "ankle": 2,
+        "apple": 2,
+        "ace": 2
+    },
+    "accolliy": {
+        "collie": 3,
+        "acclaim": 3,
+        "coolly": 3,
+        "accolade": 3,
+        "colony": 4
+    },
+    "accotly": {
+        "hotly": 3,
+        "account": 3,
+        "alertly": 3,
+        "accord": 3,
+        "coolly": 3
+    },
+    "acctaly": {
+        "acutely": 2,
+        "actually": 3,
+        "acclaim": 3,
+        "ecstasy": 3,
+        "accuracy": 3
+    },
+    "acctually": {
+        "actually": 1,
+        "tactually": 2,
+        "casually": 3,
+        "punctually": 3,
+        "actuality": 3
+    },
+    "acctuly": {
+        "acutely": 2,
+        "actually": 3,
+        "accuse": 3,
+        "account": 3,
+        "accrued": 3
+    },
+    "accualy": {
+        "actually": 2,
+        "accuracy": 2,
+        "actual": 2,
+        "actuality": 3,
+        "accuse": 3
+    },
+    "accutualy": {
+        "actually": 3,
+        "accentual": 3,
+        "accuracy": 3,
+        "acutely": 3,
+        "actual": 3
+    },
+    "acely": {
+        "ally": 2,
+        "cell": 2,
+        "safely": 2,
+        "lately": 2,
+        "namely": 2
+    },
+    "acerle": {
+        "acre": 2,
+        "score": 3,
+        "feeble": 3,
+        "acreage": 3,
+        "coerce": 3
+    },
+    "acerly": {
+        "alertly": 2,
+        "curly": 2,
+        "eagerly": 2,
+        "overly": 2,
+        "angrily": 3
+    },
+    "achauly": {
+        "haul": 3,
+        "actually": 3,
+        "chalky": 3,
+        "axially": 3,
+        "chilly": 3
+    },
+    "ache": {
+        "ache": 0,
+        "ace": 1,
+        "acre": 1,
+        "cache": 1,
+        "pace": 2
+    },
+    "acheliy": {
+        "chalky": 3,
+        "cherry": 3,
+        "chilly": 3,
+        "bachelor": 3,
+        "acrylic": 3
+    },
+    "achely": {
+        "archery": 2,
+        "acutely": 2,
+        "alchemy": 2,
+        "ache": 2,
+        "actively": 3
+    },
+    "acherly": {
+        "fatherly": 2,
+        "cherry": 2,
+        "archery": 2,
+        "allergy": 3,
+        "clergy": 3
+    },
+    "achertily": {
+        "alertly": 3,
+        "certify": 3,
+        "heartily": 3,
+        "angrily": 4,
+        "fatherly": 4
+    },
+    "achly": {
+        "ally": 2,
+        "richly": 2,
+        "ably": 2,
+        "apply": 2,
+        "amply": 2
+    },
+    "acile": {
+        "facile": 1,
+        "agile": 1,
+        "docile": 2,
+        "alike": 2,
+        "aside": 2
+    },
+    "acitler": {
+        "idler": 3,
+        "filler": 3,
+        "waiter": 3,
+        "hitter": 3,
+        "critter": 3
+    },
+    "ackchely": {
+        "actively": 3,
+        "archery": 3,
+        "acutely": 3,
+        "alchemy": 3,
+        "actually": 4
+    },
+    "ackle": {
+        "ankle": 1,
+        "tackle": 1,
+        "apple": 2,
+        "ace": 2,
+        "able": 2
+    },
+    "ackturly": {
+        "actually": 3,
+        "curly": 3,
+        "acutely": 3,
+        "actual": 3,
+        "actively": 4
+    },
+    "acocly": {
+        "cocky": 2,
+        "coyly": 2,
+        "coldly": 3,
+        "hotly": 3,
+        "rocky": 3
+    },
+    "acoly": {
+        "ally": 2,
+        "copy": 2,
+        "acolyte": 2,
+        "ably": 2,
+        "colt": 2
+    },
+    "acorll": {
+        "coral": 2,
+        "score": 3,
+        "cord": 3,
+        "acrid": 3,
+        "cell": 3
+    },
+    "acsha": {
+        "ash": 2,
+        "ache": 2,
+        "ha": 3,
+        "assay": 3,
+        "char": 3
+    },
+    "acshorly": {
+        "ashore": 3,
+        "shortly": 3,
+        "actively": 4,
+        "absorb": 4,
+        "hotly": 4
+    },
+    "actally": {
+        "actually": 1,
+        "tally": 2,
+        "vitally": 2,
+        "axially": 2,
+        "aurally": 2
+    },
+    "actarlly": {
+        "actually": 2,
+        "actively": 3,
+        "tally": 3,
+        "artfully": 3,
+        "vitally": 3
+    },
+    "acterly": {
+        "utterly": 2,
+        "artery": 2,
+        "masterly": 2,
+        "acutely": 2,
+        "actively": 3
+    },
+    "acthally": {
+        "actually": 1,
+        "tactually": 2,
+        "actively": 3,
+        "tally": 3,
+        "enthalpy": 3
+    },
+    "actherly": {
+        "fatherly": 2,
+        "motherly": 2,
+        "actively": 3,
+        "actually": 3,
+        "brotherly": 3
+    },
+    "acting": {
+        "acting": 0,
+        "aching": 1,
+        "matting": 2,
+        "mating": 2,
+        "tacking": 2
+    },
+    "actioally": {
+        "actually": 2,
+        "tactically": 2,
+        "nationally": 3,
+        "actively": 3,
+        "rationally": 3
+    },
+    "acttully": {
+        "actually": 2,
+        "artfully": 2,
+        "actively": 3,
+        "fitfully": 3,
+        "tactually": 3
+    },
+    "actualy": {
+        "actually": 1,
+        "actual": 1,
+        "actuality": 2,
+        "tactual": 2,
+        "tactually": 2
+    },
+    "actuley": {
+        "actually": 2,
+        "actively": 3,
+        "artfully": 3,
+        "actuality": 3,
+        "accuse": 3
+    },
+    "actully": {
+        "actually": 1,
+        "artfully": 2,
+        "tactually": 2,
+        "awfully": 2,
+        "actual": 2
+    },
+    "actuly": {
+        "actually": 2,
+        "acutely": 2,
+        "actual": 2,
+        "aptly": 2,
+        "actively": 3
+    },
+    "actuoly": {
+        "actually": 2,
+        "actual": 2,
+        "actively": 3,
+        "artfully": 3,
+        "actuality": 3
+    },
+    "acturally": {
+        "actually": 1,
+        "aurally": 2,
+        "tactually": 2,
+        "naturally": 2,
+        "causally": 3
+    },
+    "actyeley": {
+        "actively": 3,
+        "actually": 3,
+        "acutely": 3,
+        "artfully": 4,
+        "actuality": 4
+    },
+    "acually": {
+        "actually": 1,
+        "casually": 2,
+        "axially": 2,
+        "annually": 2,
+        "aurally": 2
+    },
+    "acuatly": {
+        "actually": 2,
+        "acutely": 2,
+        "curtly": 2,
+        "bluntly": 3,
+        "casually": 3
+    },
+    "acuely": {
+        "acutely": 1,
+        "curly": 2,
+        "vaguely": 2,
+        "actively": 3,
+        "actually": 3
+    },
+    "acully": {
+        "actually": 2,
+        "ally": 2,
+        "gully": 2,
+        "faculty": 2,
+        "curly": 2
+    },
+    "aculy": {
+        "ally": 2,
+        "ably": 2,
+        "adult": 2,
+        "faculty": 2,
+        "curly": 2
+    },
+    "acusley": {
+        "actually": 3,
+        "accuse": 3,
+        "curled": 3,
+        "accused": 3,
+        "tousled": 3
+    },
+    "acwtly": {
+        "acutely": 2,
+        "tacitly": 2,
+        "aptly": 2,
+        "softly": 3,
+        "hotly": 3
+    },
+    "aflly": {
+        "ally": 1,
+        "alloy": 2,
+        "tally": 2,
+        "safely": 2,
+        "allay": 2
+    },
+    "aherley": {
+        "fatherly": 3,
+        "medley": 3,
+        "parley": 3,
+        "wheeled": 3,
+        "healer": 3
+    },
+    "akhly": {
+        "ally": 2,
+        "ably": 2,
+        "apply": 2,
+        "amply": 2,
+        "aptly": 2
+    },
+    "aksualy": {
+        "assay": 3,
+        "actually": 3,
+        "casually": 3,
+        "visual": 3,
+        "absurdly": 3
+    },
+    "aktuly": {
+        "aptly": 2,
+        "hotly": 3,
+        "actually": 3,
+        "artfully": 3,
+        "unruly": 3
+    },
+    "alashed": {
+        "slashed": 1,
+        "cashed": 2,
+        "washed": 2,
+        "sloshed": 2,
+        "splashed": 2
+    },
+    "albee": {
+        "bee": 2,
+        "allege": 2,
+        "alike": 2,
+        "album": 2,
+        "alley": 2
+    },
+    "alshel": {
+        "ashen": 2,
+        "bushel": 2,
+        "alike": 3,
+        "cashed": 3,
+        "vessel": 3
+    },
+    "aole": {
+        "role": 1,
+        "hole": 1,
+        "able": 1,
+        "tole": 1,
+        "axle": 1
+    },
+    "ashly": {
+        "assay": 2,
+        "easily": 2,
+        "ally": 2,
+        "ashen": 2,
+        "ably": 2
+    },
+    "asiley": {
+        "aside": 2,
+        "easily": 2,
+        "silly": 2,
+        "alley": 2,
+        "agilely": 2
+    },
+    "askly": {
+        "assay": 2,
+        "easily": 2,
+        "ally": 2,
+        "ankle": 2,
+        "ably": 2
+    },
+    "asl": {
+        "sl": 1,
+        "ask": 1,
+        "al": 1,
+        "as": 1,
+        "all": 1
+    },
+    "asley": {
+        "alley": 1,
+        "alloy": 2,
+        "assay": 2,
+        "ally": 2,
+        "parley": 2
+    },
+    "asluy": {
+        "alloy": 2,
+        "assay": 2,
+        "ally": 2,
+        "alum": 2,
+        "allay": 2
+    },
+    "atally": {
+        "tally": 1,
+        "fatally": 1,
+        "actually": 2,
+        "ally": 2,
+        "orally": 2
+    },
+    "atant": {
+        "extant": 2,
+        "aunt": 2,
+        "latent": 2,
+        "stint": 2,
+        "tint": 2
+    },
+    "atchually": {
+        "actually": 2,
+        "annually": 3,
+        "atonally": 3,
+        "tactually": 3,
+        "nationally": 4
+    },
+    "atcsualy": {
+        "actually": 3,
+        "actual": 3,
+        "assay": 4,
+        "casually": 4,
+        "visual": 4
+    },
+    "aterly": {
+        "fatherly": 2,
+        "utterly": 2,
+        "lately": 2,
+        "alertly": 2,
+        "artery": 2
+    },
+    "ats": {
+        "arts": 1,
+        "at": 1,
+        "as": 1,
+        "bats": 1,
+        "eats": 1
+    },
+    "attually": {
+        "actually": 1,
+        "mutually": 2,
+        "annually": 2,
+        "atonally": 2,
+        "tactually": 2
+    },
+    "attualy": {
+        "actually": 2,
+        "actual": 2,
+        "artfully": 3,
+        "attack": 3,
+        "actuality": 3
+    },
+    "atul": {
+        "haul": 2,
+        "natal": 2,
+        "alum": 2,
+        "tug": 2,
+        "fatal": 2
+    },
+    "atully": {
+        "tally": 2,
+        "actually": 2,
+        "artfully": 2,
+        "ally": 2,
+        "gully": 2
+    },
+    "atwgel": {
+        "angel": 2,
+        "stager": 3,
+        "tweed": 3,
+        "awe": 3,
+        "gel": 3
+    }
+}
